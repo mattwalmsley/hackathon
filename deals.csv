@@ -1,0 +1,101 @@
+Deal ID,Product,Country,Client (Person),Client (Company),Bank Employee Contact,Start Date,End Date,Deal Type
+1,Renewable Energy,Jamaica,Adrienne Andrade,Taylor PLC,Jill Webb,01/07/2022,04/07/2022,Private
+2,Restaurants,Canada,Bryan Edwards,"Landry, Michael and Hancock",Richard Morrow,03/15/2022,06/13/2022,Public
+3,Airlines,Malaysia,Garrett Ewing,Johnson-Merritt,Jessica Gutierrez,03/07/2023,06/05/2023,Public
+4,Renewable Energy,Costa Rica,Judith Edwards,"Lopez, Velasquez and Martin",Jill Webb,04/26/2023,07/25/2023,Private
+5,Oil & Gas,Jamaica,Matthew Blackwell,Taylor PLC,Jill Webb,11/04/2022,02/02/2023,Private
+6,Renewable Energy,Mexico,Judith Edwards,"Lopez, Velasquez and Martin",Jill Webb,05/19/2023,08/17/2023,Private
+7,Railways,China,Jermaine Larson,Johnson-Merritt,Jessica Gutierrez,08/30/2022,11/28/2022,Public
+8,Pharmaceuticals,Costa Rica,Lori Russell,Levine Group,Patricia Beasley,07/25/2023,10/23/2023,Public
+9,Restaurants,United States,Bryan Edwards,"Landry, Michael and Hancock",Richard Morrow,08/20/2022,11/18/2022,Public
+10,Pharmaceuticals,Mexico,Donald Arnold,Levine Group,Patricia Beasley,01/10/2023,04/10/2023,Public
+11,Precious Metals,Malaysia,Justin Crosby,Griffin-Gardner,David Gutierrez,07/06/2022,10/04/2022,Private
+12,Oil & Gas,Mexico,Joseph Lopez,"Lopez, Velasquez and Martin",Jill Webb,06/15/2023,09/13/2023,Private
+13,Mining Equipment,India,Justin Crosby,Griffin-Gardner,Regina Banks,06/04/2023,09/02/2023,Public
+14,Railways,Singapore,Jermaine Larson,Johnson-Merritt,Jessica Gutierrez,09/05/2023,12/04/2023,Public
+15,Railways,India,Garrett Ewing,Johnson-Merritt,Carlos Guerrero,09/03/2023,12/02/2023,Public
+16,Automobile Manufacturers,Australia,Timothy Villarreal,Johnson-Merritt,Jessica Gutierrez,05/14/2023,08/12/2023,Public
+17,Cruise Ships,Canada,Rebecca Woodward,"Landry, Michael and Hancock",Richard Morrow,06/13/2023,09/11/2023,Public
+18,Railways,Australia,Mr. Anthony Mendoza PhD,Johnson-Merritt,Jessica Gutierrez,02/24/2023,05/25/2023,Public
+19,Pharmaceuticals,Jamaica,Donald Arnold,Levine Group,Patricia Beasley,05/02/2022,07/31/2022,Public
+20,Oil & Gas,Uruguay,Adrienne Andrade,Taylor PLC,Jill Webb,12/19/2022,03/19/2023,Private
+21,Tools,Canada,Frederick Ramsey,"Wilson, Hall and Dorsey",Allen Ortega,01/03/2022,04/03/2022,Private
+22,Pharmaceuticals,Costa Rica,Lori Russell,Levine Group,Patricia Beasley,07/31/2022,10/29/2022,Public
+23,Airlines,Japan,Garrett Ewing,Johnson-Merritt,Jessica Gutierrez,05/10/2023,08/08/2023,Public
+24,Restaurants,United States,Rebecca Woodward,"Landry, Michael and Hancock",Kirsten Beard,07/16/2023,10/14/2023,Public
+25,Online Education Platforms,Cameroon,Valerie Miller,West PLC,Julie Powers,06/09/2022,09/07/2022,Private
+26,Chemicals,Australia,Mary Perry,Griffin-Gardner,David Gutierrez,10/07/2022,01/05/2023,Private
+27,Cruise Ships,Canada,Rebecca Woodward,"Landry, Michael and Hancock",Amanda Russo,01/14/2022,04/14/2022,Private
+28,Oil & Gas,Mexico,Anthony Adams,Taylor PLC,Jill Webb,05/25/2023,08/23/2023,Private
+29,Casinos,United States,Bryan Edwards,"Landry, Michael and Hancock",Richard Morrow,11/09/2022,02/07/2023,Public
+30,Clothing,India,Joshua Reeves,"Williams, Jones and Hawkins",Margaret Shelton,06/22/2022,09/20/2022,Public
+31,Theme Parks,Canada,Rebecca Woodward,"Landry, Michael and Hancock",Kirsten Beard,12/29/2022,03/29/2023,Public
+32,Casinos,Canada,Bryan Edwards,"Landry, Michael and Hancock",Richard Morrow,04/29/2023,07/28/2023,Public
+33,Universities,Bahrain,Valerie Miller,West PLC,Julie Powers,12/05/2022,03/05/2023,Private
+34,Precious Metals,Australia,Justin Crosby,Griffin-Gardner,David Gutierrez,10/03/2022,01/01/2023,Private
+35,Office Supplies,United States,Frederick Ramsey,"Wilson, Hall and Dorsey",Megan Nguyen,08/14/2023,11/12/2023,Public
+36,Office Supplies,Canada,Frederick Ramsey,"Wilson, Hall and Dorsey",Megan Nguyen,02/25/2022,05/26/2022,Public
+37,Hotels,United States,Rebecca Woodward,"Landry, Michael and Hancock",Richard Morrow,03/27/2023,06/25/2023,Public
+38,Clothing,Cameroon,Stacey Bush,"Oliver, Payne and Atkins",Kaitlin Phillips,05/06/2022,08/04/2022,Public
+39,Shipping Companies,India,Timothy Villarreal,Johnson-Merritt,Jessica Gutierrez,03/12/2023,06/10/2023,Public
+40,Renewable Energy,Mexico,Anthony Adams,Taylor PLC,Jill Webb,08/28/2022,11/26/2022,Private
+41,Restaurants,United States,Rebecca Woodward,"Landry, Michael and Hancock",Amanda Russo,07/19/2023,10/17/2023,Private
+42,Precious Metals,Singapore,Troy Garrett,Griffin-Gardner,Regina Banks,03/23/2023,06/21/2023,Public
+43,Furniture,China,Amanda Williams,"Williams, Jones and Hawkins",Margaret Shelton,08/03/2022,11/01/2022,Public
+44,Renewable Energy,Mexico,Veronica Rose,"Lopez, Velasquez and Martin",Jill Webb,01/22/2022,04/22/2022,Private
+45,Oil & Gas,Uruguay,Joseph Lopez,"Lopez, Velasquez and Martin",Jill Webb,04/03/2023,07/02/2023,Private
+46,Office Supplies,Canada,Frederick Ramsey,"Wilson, Hall and Dorsey",Allen Ortega,10/23/2022,01/21/2023,Private
+47,Hotels,United States,Rebecca Woodward,"Landry, Michael and Hancock",Kirsten Beard,03/16/2023,06/14/2023,Public
+48,Tools,United States,Frederick Ramsey,"Wilson, Hall and Dorsey",Megan Nguyen,05/10/2023,08/08/2023,Public
+49,Casinos,United States,Rebecca Woodward,"Landry, Michael and Hancock",Kirsten Beard,02/19/2023,05/20/2023,Public
+50,Office Supplies,United States,Frederick Ramsey,"Wilson, Hall and Dorsey",Megan Nguyen,09/07/2023,12/06/2023,Public
+51,Hotels,United States,Bryan Edwards,"Landry, Michael and Hancock",Richard Morrow,08/17/2022,11/15/2022,Public
+52,Oil & Gas,Uruguay,Veronica Rose,"Lopez, Velasquez and Martin",Jill Webb,03/14/2023,06/12/2023,Private
+53,Hotels,Canada,Rebecca Woodward,"Landry, Michael and Hancock",Richard Morrow,07/22/2023,10/20/2023,Public
+54,Cruise Ships,Canada,Bryan Edwards,"Landry, Michael and Hancock",Kirsten Beard,01/17/2023,04/17/2023,Public
+55,Shipping Companies,China,Mr. Anthony Mendoza PhD,Johnson-Merritt,Jessica Gutierrez,03/15/2022,06/13/2022,Public
+56,Hotels,United States,Bryan Edwards,"Landry, Michael and Hancock",Kirsten Beard,09/03/2022,12/02/2022,Public
+57,Hotels,Canada,Bryan Edwards,"Landry, Michael and Hancock",Richard Morrow,08/02/2022,10/31/2022,Public
+58,Cruise Ships,United States,Rebecca Woodward,"Landry, Michael and Hancock",Richard Morrow,01/31/2022,05/01/2022,Public
+59,Mining Equipment,Australia,Dennis Kelley,Griffin-Gardner,Regina Banks,03/26/2022,06/24/2022,Public
+60,Internet Service Providers,Canada,Wendy Morris,"Taylor, Wilson and Lewis",Shannon Boone,12/22/2022,03/22/2023,Public
+61,Pharmaceuticals,Costa Rica,Donald Arnold,Levine Group,Patricia Beasley,07/31/2023,10/29/2023,Public
+62,Music Labels,Singapore,John Chapman,Anderson Inc,Angela Jacobs,02/27/2022,05/28/2022,Public
+63,Video Game Companies,Australia,Ashley Yang,Anderson Inc,Angela Jacobs,05/15/2022,08/13/2022,Public
+64,Oil & Gas,Jamaica,Anthony Adams,Taylor PLC,Jill Webb,04/19/2022,07/18/2022,Private
+65,Tools,United States,Frederick Ramsey,"Wilson, Hall and Dorsey",Allen Ortega,01/18/2023,04/18/2023,Private
+66,Pharmaceuticals,Mexico,Lori Russell,Levine Group,Patricia Beasley,04/17/2023,07/16/2023,Public
+67,Airlines,India,Jermaine Larson,Johnson-Merritt,Jessica Gutierrez,05/27/2023,08/25/2023,Public
+68,Mining Equipment,Australia,Mary Perry,Griffin-Gardner,Regina Banks,11/08/2022,02/06/2023,Public
+69,Cruise Ships,Canada,Rebecca Woodward,"Landry, Michael and Hancock",Richard Morrow,02/25/2022,05/26/2022,Public
+70,Theme Parks,United States,Rebecca Woodward,"Landry, Michael and Hancock",Richard Morrow,07/06/2023,10/04/2023,Public
+71,Oil & Gas,Uruguay,Phillip Mclaughlin,"Lopez, Velasquez and Martin",Jill Webb,03/11/2022,06/09/2022,Private
+72,Movie Studios,Australia,Gabriel Dyer,Anderson Inc,Angela Jacobs,07/01/2023,09/29/2023,Public
+73,Telecom Equipment Manufacturers,Canada,Wendy Morris,"Taylor, Wilson and Lewis",Shannon Boone,07/25/2022,10/23/2022,Public
+74,Oil & Gas,Uruguay,Veronica Rose,"Lopez, Velasquez and Martin",Jill Webb,05/11/2023,08/09/2023,Private
+75,Renewable Energy,Mexico,Judith Edwards,"Lopez, Velasquez and Martin",Jill Webb,06/15/2022,09/13/2022,Private
+76,Oil & Gas,Jamaica,Joseph Lopez,"Lopez, Velasquez and Martin",Jill Webb,08/15/2023,11/13/2023,Private
+77,Computer,Hungary,Daniel Soto,"Oliver, Payne and Atkins",Kaitlin Phillips,05/16/2022,08/14/2022,Public
+78,Tools,Canada,Frederick Ramsey,"Wilson, Hall and Dorsey",Allen Ortega,03/23/2022,06/21/2022,Private
+79,Trucking Companies,Australia,Mr. Anthony Mendoza PhD,Johnson-Merritt,Carlos Guerrero,06/12/2022,09/10/2022,Public
+80,Railways,China,Garrett Ewing,Johnson-Merritt,Carlos Guerrero,05/02/2023,07/31/2023,Public
+81,Pharmaceuticals,Mexico,Donald Arnold,Levine Group,Patricia Beasley,06/04/2023,09/02/2023,Public
+82,Tools,Canada,Frederick Ramsey,"Wilson, Hall and Dorsey",Megan Nguyen,07/22/2023,10/20/2023,Public
+83,Casinos,Canada,Rebecca Woodward,"Landry, Michael and Hancock",Richard Morrow,04/18/2023,07/17/2023,Public
+84,Toys,Cameroon,Daniel Soto,"Oliver, Payne and Atkins",Kaitlin Phillips,03/16/2022,06/14/2022,Public
+85,Textbook Publishers,United Arab Emirates,Valerie Miller,West PLC,Julie Powers,01/23/2023,04/23/2023,Private
+86,Cruise Ships,United States,Bryan Edwards,"Landry, Michael and Hancock",Amanda Russo,09/21/2023,12/20/2023,Private
+87,Car,United Arab Emirates,Jillian Duncan,"Oliver, Payne and Atkins",Kaitlin Phillips,07/24/2023,10/22/2023,Public
+88,Furniture,China,Joshua Reeves,"Williams, Jones and Hawkins",Margaret Shelton,02/06/2023,05/07/2023,Public
+89,Oil & Gas,Costa Rica,Tammy Atkins,"Lopez, Velasquez and Martin",Jill Webb,08/31/2022,11/29/2022,Private
+90,Musical Instruments,United Kingdom,Stacey Bush,"Oliver, Payne and Atkins",Kaitlin Phillips,08/25/2022,11/23/2022,Public
+91,Precious Metals,Japan,Justin Crosby,Griffin-Gardner,David Gutierrez,01/16/2023,04/16/2023,Private
+92,Airlines,India,Jermaine Larson,Johnson-Merritt,Carlos Guerrero,11/25/2022,02/23/2023,Public
+93,Hotels,United States,Rebecca Woodward,"Landry, Michael and Hancock",Kirsten Beard,08/06/2022,11/04/2022,Public
+94,Textbook Publishers,Germany,Valerie Miller,West PLC,Julie Powers,07/03/2022,10/01/2022,Private
+95,Telecom Equipment Manufacturers,Canada,Wendy Morris,"Taylor, Wilson and Lewis",Shannon Boone,04/30/2023,07/29/2023,Public
+96,Casinos,Canada,Rebecca Woodward,"Landry, Michael and Hancock",Kirsten Beard,09/11/2022,12/10/2022,Public
+97,Watches,Japan,Joshua Reeves,"Williams, Jones and Hawkins",Margaret Shelton,06/09/2022,09/07/2022,Public
+98,Office Supplies,United States,Frederick Ramsey,"Wilson, Hall and Dorsey",Megan Nguyen,01/30/2022,04/30/2022,Public
+99,Railways,India,Jermaine Larson,Johnson-Merritt,Carlos Guerrero,02/06/2022,05/07/2022,Public
+100,Television Networks,Japan,Stephen Lewis,Anderson Inc,Angela Jacobs,07/30/2022,10/28/2022,Public
