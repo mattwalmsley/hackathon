@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+#data {
+  margin: 20px auto;
+  width: 800px;
+}
+
+.header {
+  font-weight: bold;
+}
+
+.row {
+  margin-bottom: 5px;
+}
