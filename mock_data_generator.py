@@ -104,8 +104,8 @@ def generate_deals():
 
         # Append data row
         data.append([
-            row + 1, product, country, client_name, company, bank_employee_contact, deal_start.strftime('%m/%d/%Y'),
-            deal_end.strftime('%m/%d/%Y'), deal_type
+            row + 1, product, country, client_name, company, bank_employee_contact, deal_start.strftime('%Y-%m-%d'),
+            deal_end.strftime('%Y-%m-%d'), deal_type
         ])
 
     return data
@@ -113,11 +113,11 @@ def generate_deals():
 
 def generate_employees():
     data = []
-    for employee_name in employee_names:
+    for employee in client_employee_dict.values():
         data.append([
-            employee_name, employee_department_dict[employee_name], employee_industry_dict[employee_name],
-            employee_region_dict[employee_name], random.randint(1, MAX_IDEAL_CLIENTS_PER_EMPLOYEE),
-            random.randint(1, MAX_EMPLOYEE_EXPERIENCE), employee_designation_dict[employee_name]
+            employee, employee_department_dict[employee], employee_industry_dict[employee],
+            employee_region_dict[employee], random.randint(1, MAX_IDEAL_CLIENTS_PER_EMPLOYEE),
+            random.randint(1, MAX_EMPLOYEE_EXPERIENCE), employee_designation_dict[employee]
         ])
     return data
 
