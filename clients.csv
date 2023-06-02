@@ -1,167 +1,147 @@
 Client Name,Company,Industry,Region,Years with Bank
-Christopher Hurley,Contreras-Hill,Telecommunications,North America,2
-Kyle Alvarez,Contreras-Hill,Telecommunications,North America,51
-Adam Robinson,Marshall-Wilson,Education,North America,69
-Briana Eaton,Marshall-Wilson,Education,North America,44
-Jessica Benson,Marshall-Wilson,Education,North America,27
-Caleb Miller,Marshall-Wilson,Education,North America,71
-Jamie Rowe,Wilkinson Inc,Hospitality,"Europe, Middle East & Africa",5
-Maria Rodriguez,Wilkinson Inc,Hospitality,"Europe, Middle East & Africa",8
-Brian Haynes,"Sherman, Gibson and Henderson",Financials,Asia Pacific,6
-Deanna Hall,"Sherman, Gibson and Henderson",Financials,Asia Pacific,45
-Kelly Davis,"Sherman, Gibson and Henderson",Financials,Asia Pacific,45
-Steven Johnson,"Sherman, Gibson and Henderson",Financials,Asia Pacific,41
-Jacqueline Dunlap,"Price, Braun and King",Healthcare,Asia Pacific,40
-William Bernard,"Price, Braun and King",Healthcare,Asia Pacific,75
-Edward Smith,"Price, Braun and King",Healthcare,Asia Pacific,38
-Melissa Lee,"Price, Braun and King",Healthcare,Asia Pacific,3
-Richard Campbell,Short-Garcia,Transportation,"Europe, Middle East & Africa",45
-Kathryn Peterson,Short-Garcia,Transportation,"Europe, Middle East & Africa",16
-Gregory Robinson,"Meza, Wood and Woods",Transportation,Asia Pacific,14
-Tina Phillips,"Meza, Wood and Woods",Transportation,Asia Pacific,58
-Brian Moon,"Meza, Wood and Woods",Transportation,Asia Pacific,33
-Misty Turner,"Meza, Wood and Woods",Transportation,Asia Pacific,15
-Robert Robinson,"Meza, Wood and Woods",Transportation,Asia Pacific,7
-Michelle Watson,Rose-Price,Consumer Staples,Asia Pacific,75
-Jennifer Huerta,Rose-Price,Consumer Staples,Asia Pacific,1
-Mark Davis,Rose-Price,Consumer Staples,Asia Pacific,54
-Brian Gonzalez,Rose-Price,Consumer Staples,Asia Pacific,60
-Amanda Wright,Rose-Price,Consumer Staples,Asia Pacific,45
-Andrea Castro,"Nguyen, Moody and Travis",Education,North America,32
-Donald Lowe,"Nguyen, Moody and Travis",Education,North America,59
-April Garza,"Nguyen, Moody and Travis",Education,North America,73
-Victoria Ward,Fisher-Harper,Materials,"Europe, Middle East & Africa",2
-Joshua Jenkins,Fisher-Harper,Materials,"Europe, Middle East & Africa",56
-Manuel Patterson,Fisher-Harper,Materials,"Europe, Middle East & Africa",27
-Heather Gordon,Fisher-Harper,Materials,"Europe, Middle East & Africa",1
-Brandon Gonzalez,Fisher-Harper,Materials,"Europe, Middle East & Africa",64
-Timothy Gonzalez,Riddle-Floyd,Telecommunications,Latin America,17
-Brittney Whitehead,Riddle-Floyd,Telecommunications,Latin America,16
-Michael Ryan,Riddle-Floyd,Telecommunications,Latin America,36
-Melissa Rhodes,Riddle-Floyd,Telecommunications,Latin America,67
-Emma Myers,Murphy-Walters,Media and Entertainment,North America,60
-Arthur Adams,Murphy-Walters,Media and Entertainment,North America,50
-Nicholas Nunez,Murphy-Walters,Media and Entertainment,North America,10
-Ross Freeman,Garcia LLC,Real Estate,Latin America,66
-Kayla Cox,Garcia LLC,Real Estate,Latin America,39
-Crystal Patterson,Garcia LLC,Real Estate,Latin America,7
-Anna Stark,Garcia LLC,Real Estate,Latin America,72
-Marco Ray,"Blanchard, Brown and Martinez",Materials,Latin America,51
-Vanessa Mccarthy,"Blanchard, Brown and Martinez",Materials,Latin America,43
-Kathryn Roberts,"Blanchard, Brown and Martinez",Materials,Latin America,18
-Charles Cobb,"Blanchard, Brown and Martinez",Materials,Latin America,42
-Jon West,"Blanchard, Brown and Martinez",Materials,Latin America,44
-Nancy Conner,Hughes-Johnson,Financials,North America,53
-Anthony Nguyen,Hughes-Johnson,Financials,North America,60
-Anthony Hayden,Hughes-Johnson,Financials,North America,1
-Kristy Brooks,Garner-Ellis,Consumer Staples,Asia Pacific,46
-Charles Garcia,"Abbott, Barrett and Hill",Consumer Staples,North America,43
-Brenda Smith,"Abbott, Barrett and Hill",Consumer Staples,North America,7
-Emily Thompson,"Abbott, Barrett and Hill",Consumer Staples,North America,50
-Jeffrey Schneider,"Abbott, Barrett and Hill",Consumer Staples,North America,2
-Scott Harris,Wyatt and Sons,Industrials,North America,22
-Danielle Perez,Wyatt and Sons,Industrials,North America,20
-Sarah Ramirez,Wyatt and Sons,Industrials,North America,51
-Kelly Mitchell,"Stevens, Johnson and Webster",Transportation,North America,25
-Hannah Cunningham,"Stevens, Johnson and Webster",Transportation,North America,29
-Mary Hall,"Stevens, Johnson and Webster",Transportation,North America,69
-Brenda Frederick,"Stevens, Johnson and Webster",Transportation,North America,44
-Kristi Faulkner,"Stevens, Johnson and Webster",Transportation,North America,24
-Stacy Combs,Rogers and Sons,Energy,"Europe, Middle East & Africa",58
-Jeremy Williams,Rogers and Sons,Energy,"Europe, Middle East & Africa",60
-George Wilson,Rogers and Sons,Energy,"Europe, Middle East & Africa",35
-Melissa English,Hill-Mullins,Consumer Staples,Latin America,28
-David Montgomery,Hill-Mullins,Consumer Staples,Latin America,62
-Meagan Johnson,Hill-Mullins,Consumer Staples,Latin America,60
-Tanya Harris,"Rios, Gonzalez and Mitchell",Hospitality,Latin America,6
-Chad Harvey,Reyes LLC,Telecommunications,North America,52
-Julie Anderson,Reyes LLC,Telecommunications,North America,61
-Jeffrey Walker,"Allen, Howell and Anderson",Education,"Europe, Middle East & Africa",67
-Allison Gilbert,"Allen, Howell and Anderson",Education,"Europe, Middle East & Africa",36
-Jermaine Logan MD,"Allen, Howell and Anderson",Education,"Europe, Middle East & Africa",37
-Christopher Hubbard,"Allen, Howell and Anderson",Education,"Europe, Middle East & Africa",63
-Jerry Holder,Wang-Pugh,Education,"Europe, Middle East & Africa",16
-Emma Gonzales,Wang-Pugh,Education,"Europe, Middle East & Africa",48
-Jenna Haynes,Wang-Pugh,Education,"Europe, Middle East & Africa",17
-Marcia Wagner,Wang-Pugh,Education,"Europe, Middle East & Africa",31
-Dawn Lynch,Walls Inc,Technology,"Europe, Middle East & Africa",48
-Bryan Jackson,Walls Inc,Technology,"Europe, Middle East & Africa",50
-Vincent Morse,Walls Inc,Technology,"Europe, Middle East & Africa",5
-Alan Wiley,Johnson-Peterson,Energy,"Europe, Middle East & Africa",45
-Daniel Cooper,Johnson-Peterson,Energy,"Europe, Middle East & Africa",64
-Nicholas Harvey,Castillo Ltd,Hospitality,"Europe, Middle East & Africa",16
-Brandon Garcia,Castillo Ltd,Hospitality,"Europe, Middle East & Africa",46
-Kimberly Caldwell,Castillo Ltd,Hospitality,"Europe, Middle East & Africa",61
-Peter Price,Castillo Ltd,Hospitality,"Europe, Middle East & Africa",25
-Kevin Clark,Miller Ltd,Real Estate,North America,59
-Veronica Guerrero,"Atkinson, Mann and Mitchell",Industrials,"Europe, Middle East & Africa",18
-Melissa Burton,"Atkinson, Mann and Mitchell",Industrials,"Europe, Middle East & Africa",28
-Jacqueline Williams,"Atkinson, Mann and Mitchell",Industrials,"Europe, Middle East & Africa",35
-Katie Smith,"Atkinson, Mann and Mitchell",Industrials,"Europe, Middle East & Africa",58
-Paul Snow,"Atkinson, Mann and Mitchell",Industrials,"Europe, Middle East & Africa",38
-James Cooper,Mitchell Ltd,Industrials,"Europe, Middle East & Africa",7
-Jennifer Sanchez,Mitchell Ltd,Industrials,"Europe, Middle East & Africa",38
-John Murphy,Mitchell Ltd,Industrials,"Europe, Middle East & Africa",63
-Ashley Clark,Mitchell Ltd,Industrials,"Europe, Middle East & Africa",33
-Krystal Cline,Gonzalez and Sons,Media and Entertainment,"Europe, Middle East & Africa",60
-David Maldonado,Gonzalez and Sons,Media and Entertainment,"Europe, Middle East & Africa",22
-Corey Anderson,Gonzalez and Sons,Media and Entertainment,"Europe, Middle East & Africa",68
-Leslie Huber,Gonzalez and Sons,Media and Entertainment,"Europe, Middle East & Africa",11
-Danielle Hall,Crosby PLC,Education,Latin America,49
-Philip Rodriguez,Crosby PLC,Education,Latin America,60
-Mark Hall,Crosby PLC,Education,Latin America,31
-Joanna Brooks,Gardner PLC,Education,Latin America,41
-Mary Fernandez,Gardner PLC,Education,Latin America,7
-Valerie Wright,Gardner PLC,Education,Latin America,48
-Scott Carroll,Wright-Burns,Transportation,"Europe, Middle East & Africa",66
-Sharon Gregory,Wright-Burns,Transportation,"Europe, Middle East & Africa",36
-Phillip Nolan,"Estrada, Wright and Tate",Healthcare,North America,13
-Kathryn Hartman,"Estrada, Wright and Tate",Healthcare,North America,7
-Destiny Gallegos,"Estrada, Wright and Tate",Healthcare,North America,5
-Gabrielle Ramirez,"Estrada, Wright and Tate",Healthcare,North America,56
-William Kelley,"Estrada, Wright and Tate",Healthcare,North America,17
-Christy Greene,Gonzalez-Hartman,Telecommunications,North America,66
-Elizabeth Lowe MD,Gonzalez-Hartman,Telecommunications,North America,72
-Larry Bennett,"Owens, Martin and Hicks",Materials,Asia Pacific,27
-Dylan Castillo,"Owens, Martin and Hicks",Materials,Asia Pacific,63
-Nichole Montes,"Owens, Martin and Hicks",Materials,Asia Pacific,35
-Theresa Nelson,"Owens, Martin and Hicks",Materials,Asia Pacific,75
-Billy Wilson,Nguyen Ltd,Transportation,"Europe, Middle East & Africa",69
-Elizabeth Rivas,Nguyen Ltd,Transportation,"Europe, Middle East & Africa",35
-Dave Cox,Nguyen Ltd,Transportation,"Europe, Middle East & Africa",24
-William Nichols,Hanson-Shepard,Transportation,Asia Pacific,37
-Leslie Dillon,Hanson-Shepard,Transportation,Asia Pacific,7
-Robert Castillo,Hanson-Shepard,Transportation,Asia Pacific,44
-Jeremy Johnson,Smith Group,Real Estate,Latin America,29
-Cassandra Coleman,Smith Group,Real Estate,Latin America,40
-Robert Carson,Smith Group,Real Estate,Latin America,11
-Jane Hanson,"Stafford, Palmer and Alexander",Industrials,North America,69
-Andrew Moore,"Stafford, Palmer and Alexander",Industrials,North America,49
-Marcus Smith,"Stafford, Palmer and Alexander",Industrials,North America,42
-Courtney Diaz,"Stafford, Palmer and Alexander",Industrials,North America,41
-Dawn Sherman,Townsend-Dominguez,Healthcare,Latin America,27
-Samantha Reyes,Townsend-Dominguez,Healthcare,Latin America,30
-Caitlin Chen,"Munoz, Johnson and Simon",Media and Entertainment,"Europe, Middle East & Africa",3
-Troy Williams,"Munoz, Johnson and Simon",Media and Entertainment,"Europe, Middle East & Africa",66
-Carl Molina,"Munoz, Johnson and Simon",Media and Entertainment,"Europe, Middle East & Africa",23
-Melissa Brown,"Munoz, Johnson and Simon",Media and Entertainment,"Europe, Middle East & Africa",60
-Aaron Thomas,Bailey Ltd,Real Estate,Asia Pacific,21
-Rickey Hutchinson,Bailey Ltd,Real Estate,Asia Pacific,74
-Jason Walsh,Bailey Ltd,Real Estate,Asia Pacific,55
-Susan Brown,Bailey Ltd,Real Estate,Asia Pacific,39
-Matthew Davila,Bailey Ltd,Real Estate,Asia Pacific,5
-Fred Smith,"Sandoval, Ramirez and Anderson",Technology,Latin America,54
-Joseph Baker,"Sandoval, Ramirez and Anderson",Technology,Latin America,27
-Joanne Shields,"Sandoval, Ramirez and Anderson",Technology,Latin America,20
-David Boyd,"Sandoval, Ramirez and Anderson",Technology,Latin America,53
-Cynthia Parks,"Cannon, Mckinney and Taylor",Healthcare,Asia Pacific,18
-Alicia Huffman,"Cannon, Mckinney and Taylor",Healthcare,Asia Pacific,16
-Carrie Lee,Wilson PLC,Healthcare,North America,4
-Ethan Walker,Wilson PLC,Healthcare,North America,25
-Tara Hayes,Lee LLC,Real Estate,North America,48
-Matthew Walker,Lee LLC,Real Estate,North America,24
-Sierra Perez,Hall-Berry,Telecommunications,"Europe, Middle East & Africa",50
-Ashley Cole,Hall-Berry,Telecommunications,"Europe, Middle East & Africa",45
-Lisa Johnson,Hall-Berry,Telecommunications,"Europe, Middle East & Africa",49
-Donna Bowman,Hall-Berry,Telecommunications,"Europe, Middle East & Africa",24
-Heidi Foster,Hall-Berry,Telecommunications,"Europe, Middle East & Africa",13
+Michael David,"Smith, Arias and Bright",Financials,Latin America,11
+Mr. Troy Graves III,"Smith, Arias and Bright",Financials,Latin America,56
+Cynthia Wilson,"Mahoney, Todd and Mccoy",Consumer Discretionary,"Europe, Middle East & Africa",47
+Sarah Reyes,"Mahoney, Todd and Mccoy",Consumer Discretionary,"Europe, Middle East & Africa",35
+Nicole Burke,"Mahoney, Todd and Mccoy",Consumer Discretionary,"Europe, Middle East & Africa",10
+Veronica Anderson,"Mahoney, Todd and Mccoy",Consumer Discretionary,"Europe, Middle East & Africa",7
+Erica Watkins,"Mahoney, Todd and Mccoy",Consumer Discretionary,"Europe, Middle East & Africa",66
+Brittany Romero,Romero PLC,Education,Latin America,56
+Jennifer Mccormick,Romero PLC,Education,Latin America,54
+Daniel Mata,"Steele, White and Beasley",Consumer Discretionary,Asia Pacific,70
+Megan Moore,Ward-Wright,Transportation,Asia Pacific,68
+Kayla Fernandez,"Morris, Martin and Jensen",Financials,North America,28
+Dylan Macdonald,"Morris, Martin and Jensen",Financials,North America,2
+Heather Mcknight,"Morris, Martin and Jensen",Financials,North America,24
+Richard Williams,Jones-Wang,Consumer Staples,Asia Pacific,14
+Holly Thompson,Jones-Wang,Consumer Staples,Asia Pacific,16
+Ryan Castillo,Jones-Wang,Consumer Staples,Asia Pacific,38
+Dr. Brandon Holmes,Jones-Wang,Consumer Staples,Asia Pacific,35
+Stephanie Deleon,White-Moses,Industrials,Asia Pacific,13
+Paul Bryant,White-Moses,Industrials,Asia Pacific,14
+Carrie Barr,White-Moses,Industrials,Asia Pacific,20
+Mary Taylor,Davies-Brown,Financials,Asia Pacific,56
+Carolyn Davis,Davies-Brown,Financials,Asia Pacific,67
+Mark Anderson,Davies-Brown,Financials,Asia Pacific,66
+Michelle Roth,Solomon-Murphy,Financials,Asia Pacific,4
+Julie Cowan,Solomon-Murphy,Financials,Asia Pacific,26
+Timothy Matthews,Solomon-Murphy,Financials,Asia Pacific,38
+Michael Murray,Solomon-Murphy,Financials,Asia Pacific,32
+Christina Rodriguez,"Thompson, Johnston and Welch",Energy,North America,46
+Hailey Payne,Smith Ltd,Energy,Asia Pacific,27
+Yvonne Wood,Smith Ltd,Energy,Asia Pacific,16
+Joshua Stokes,"Hodge, Campbell and Strong",Consumer Staples,Asia Pacific,8
+Erica Green,"Hodge, Campbell and Strong",Consumer Staples,Asia Pacific,57
+Richard Harrington,"Nguyen, Harrington and Camacho",Utilities,North America,41
+Emily Gibbs,"Nguyen, Harrington and Camacho",Utilities,North America,15
+Amanda Mccoy,"Nguyen, Harrington and Camacho",Utilities,North America,71
+Michelle Nelson,Flores Group,Materials,"Europe, Middle East & Africa",39
+Amy Garcia,Wells PLC,Telecommunications,Latin America,34
+Jerry Ryan,Wells PLC,Telecommunications,Latin America,7
+Sabrina Reed,Wells PLC,Telecommunications,Latin America,43
+Chase Gonzalez,Wells PLC,Telecommunications,Latin America,4
+Christopher Lopez,Wells PLC,Telecommunications,Latin America,11
+Eric Mathews,"Roberts, Edwards and Morrison",Consumer Staples,"Europe, Middle East & Africa",49
+Michael Griffin,"Roberts, Edwards and Morrison",Consumer Staples,"Europe, Middle East & Africa",14
+Melissa Jones,"Roberts, Edwards and Morrison",Consumer Staples,"Europe, Middle East & Africa",42
+Vincent Edwards,"Roberts, Edwards and Morrison",Consumer Staples,"Europe, Middle East & Africa",26
+Mr. Micheal Hawkins,Nelson-Scott,Telecommunications,"Europe, Middle East & Africa",21
+Adam Maldonado,Nelson-Scott,Telecommunications,"Europe, Middle East & Africa",59
+Lindsey Cunningham,Nelson-Scott,Telecommunications,"Europe, Middle East & Africa",16
+Angela Wallace,Nelson-Scott,Telecommunications,"Europe, Middle East & Africa",24
+Drew Harris,"Mcdowell, Henry and Wu",Media and Entertainment,Latin America,6
+Carl Hayes,"Mcdowell, Henry and Wu",Media and Entertainment,Latin America,1
+David Williams,"Mcdowell, Henry and Wu",Media and Entertainment,Latin America,41
+Albert Johnston,"Mcdowell, Henry and Wu",Media and Entertainment,Latin America,72
+Taylor English,"Mcdowell, Henry and Wu",Media and Entertainment,Latin America,27
+Kelsey Mccullough,Nichols-Morgan,Media and Entertainment,Asia Pacific,40
+Nicholas Harris,Nichols-Morgan,Media and Entertainment,Asia Pacific,17
+William Clark DDS,Nichols-Morgan,Media and Entertainment,Asia Pacific,52
+Rachel Mitchell,Nichols-Morgan,Media and Entertainment,Asia Pacific,26
+James Avery,Williams-Spears,Energy,"Europe, Middle East & Africa",57
+Zachary Richardson,Williams-Spears,Energy,"Europe, Middle East & Africa",31
+Jonathon Odom,Williams-Spears,Energy,"Europe, Middle East & Africa",42
+George Alexander,"Brown, Young and Johnson",Consumer Staples,North America,32
+Katherine Smith,"Brown, Young and Johnson",Consumer Staples,North America,10
+Kayla Carrillo,"Brown, Young and Johnson",Consumer Staples,North America,64
+Mary Manning,Li-Hubbard,Media and Entertainment,"Europe, Middle East & Africa",35
+Sherri Price,Li-Hubbard,Media and Entertainment,"Europe, Middle East & Africa",1
+Jason Baker,Clark-Brown,Telecommunications,Latin America,64
+Philip Smith,"Torres, Zimmerman and Wiggins",Technology,Asia Pacific,53
+Matthew Evans,"Torres, Zimmerman and Wiggins",Technology,Asia Pacific,12
+Dr. Jeffery Carter PhD,"Torres, Zimmerman and Wiggins",Technology,Asia Pacific,29
+Anne Blair,"Torres, Zimmerman and Wiggins",Technology,Asia Pacific,28
+April Aguilar,Perkins-Matthews,Real Estate,Asia Pacific,7
+Lisa Doyle,Perkins-Matthews,Real Estate,Asia Pacific,55
+Kevin Smith,Perkins-Matthews,Real Estate,Asia Pacific,26
+Kayla Martin,Perkins-Matthews,Real Estate,Asia Pacific,46
+Ricky Diaz,Perkins-Matthews,Real Estate,Asia Pacific,6
+Dawn Gonzales,Stewart-Phillips,Telecommunications,"Europe, Middle East & Africa",40
+Dawn Fleming,Stewart-Phillips,Telecommunications,"Europe, Middle East & Africa",54
+Sandra Lopez,Barber-Trujillo,Industrials,"Europe, Middle East & Africa",58
+Jessica Alvarado,Barber-Trujillo,Industrials,"Europe, Middle East & Africa",29
+Taylor Lynn,Barber-Trujillo,Industrials,"Europe, Middle East & Africa",14
+Mark Christian,Barber-Trujillo,Industrials,"Europe, Middle East & Africa",3
+Christina Bentley,Barber-Trujillo,Industrials,"Europe, Middle East & Africa",44
+Jenna Phillips,Garcia-Murillo,Technology,North America,4
+Christopher Monroe,Garcia-Murillo,Technology,North America,26
+Erin Gomez,Garcia-Murillo,Technology,North America,55
+James Holt,Jones Inc,Utilities,North America,22
+Stephanie Davenport,Jones Inc,Utilities,North America,22
+Dr. Eric Jensen,Jones Inc,Utilities,North America,39
+Kayla Nichols,Jones Inc,Utilities,North America,7
+David Hays,Adams-Beck,Financials,"Europe, Middle East & Africa",59
+Andrew Gray,Whitehead LLC,Education,Asia Pacific,58
+Jonathan Kaiser,Whitehead LLC,Education,Asia Pacific,11
+Rebecca Dillon,Whitehead LLC,Education,Asia Pacific,72
+Joseph Nichols,"Aguirre, Hill and Jordan",Financials,"Europe, Middle East & Africa",59
+Jessica Rasmussen,"Aguirre, Hill and Jordan",Financials,"Europe, Middle East & Africa",13
+Bridget Vasquez,Houston-Anderson,Media and Entertainment,North America,59
+Eric Lewis,Houston-Anderson,Media and Entertainment,North America,4
+Jennifer Owens,Houston-Anderson,Media and Entertainment,North America,53
+Carl Weaver,"Brennan, Thompson and Mcbride",Transportation,"Europe, Middle East & Africa",13
+Daniel Doyle,"Brennan, Thompson and Mcbride",Transportation,"Europe, Middle East & Africa",59
+Danielle Martinez,"Brennan, Thompson and Mcbride",Transportation,"Europe, Middle East & Africa",22
+Robert Hernandez,"Brennan, Thompson and Mcbride",Transportation,"Europe, Middle East & Africa",57
+Cindy Barrett,Mccarty-Kim,Utilities,Latin America,9
+Sandra Franklin,Mccarty-Kim,Utilities,Latin America,29
+Dustin Conner,Mccarty-Kim,Utilities,Latin America,74
+Michael Williams,Mccarty-Kim,Utilities,Latin America,75
+Roger Maddox,Gilmore-Luna,Healthcare,North America,55
+Barbara Smith,Garcia Inc,Education,North America,27
+Mary Young,Garcia Inc,Education,North America,6
+Jennifer Smith,Garcia Inc,Education,North America,62
+Robert Trevino,Garcia Inc,Education,North America,52
+Kari Crawford,"Cardenas, Harris and Dyer",Materials,Latin America,9
+Angela Travis,Harris-Clark,Telecommunications,"Europe, Middle East & Africa",11
+Sharon Morris,Harris-Clark,Telecommunications,"Europe, Middle East & Africa",74
+Joseph Garcia,Wilson LLC,Healthcare,Latin America,43
+Barbara Boyle,Wilson LLC,Healthcare,Latin America,20
+Mike Morrow,Wilson LLC,Healthcare,Latin America,69
+Andre Washington,Wilson LLC,Healthcare,Latin America,62
+Brad Pope,Diaz-Butler,Hospitality,"Europe, Middle East & Africa",57
+Mr. Randy Miller Jr.,Snow and Sons,Consumer Discretionary,Asia Pacific,14
+Jodi Marshall,Snow and Sons,Consumer Discretionary,Asia Pacific,22
+Marc Gonzalez,"Proctor, Barton and Wright",Education,Asia Pacific,62
+Kyle Klein,"Proctor, Barton and Wright",Education,Asia Pacific,38
+Joshua Lopez,"Proctor, Barton and Wright",Education,Asia Pacific,62
+Mr. Tyrone Smith,"Proctor, Barton and Wright",Education,Asia Pacific,66
+Jay Lang,"Proctor, Barton and Wright",Education,Asia Pacific,8
+Lauren Weber,Randolph Group,Utilities,Latin America,21
+Terrence Park,Thompson-Gamble,Technology,North America,16
+Jeffery Davis,Thompson-Gamble,Technology,North America,21
+Kenneth Collins,Thompson-Gamble,Technology,North America,69
+Mark Brown,Thompson-Gamble,Technology,North America,31
+Latoya Robinson DDS,Thompson-Gamble,Technology,North America,32
+Vanessa Holmes,"Ellis, Clark and Collins",Technology,North America,2
+Terri Cordova,"Ellis, Clark and Collins",Technology,North America,65
+Jennifer Thomas,"Ellis, Clark and Collins",Technology,North America,21
+Marc Hayes,"Ellis, Clark and Collins",Technology,North America,3
+Lindsey Price,"Ellis, Clark and Collins",Technology,North America,39
+Christina Morton,Chase Group,Materials,"Europe, Middle East & Africa",66
+Jeremy Williams,Chase Group,Materials,"Europe, Middle East & Africa",36
+Brenda Nichols,Campbell-Hayden,Consumer Staples,"Europe, Middle East & Africa",52
+Allison Lopez,Phelps-Phillips,Telecommunications,Latin America,25
+Mark Stevens,Phelps-Phillips,Telecommunications,Latin America,42
+Joshua Harris,Phelps-Phillips,Telecommunications,Latin America,37
+Elizabeth Robinson,Phelps-Phillips,Telecommunications,Latin America,11

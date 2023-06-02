@@ -13,7 +13,6 @@ delta = timedelta(days=90)
 
 # Define mock data size
 ROWS_OF_DATA = 200
-EMPLOYEES = 200
 COMPANIES = 50
 MAX_CLIENTS_PER_COMPANY = 5
 MAX_IDEAL_CLIENTS_PER_EMPLOYEE = 5
@@ -33,15 +32,26 @@ employees_header = ['Employee Name', 'Company Department', 'Industry', 'Region',
 # Set up fake data generator
 fake = Faker()
 
+# define mock data structures
+client_names = []
+employee_names = []
+company_client_dict = {}
+company_industry_dict = {}
+company_region_dict = {}
+client_employee_dict = {}
+employee_department_dict = {}
+employee_designation_dict = {}
+employee_industry_dict = {}
+employee_region_dict = {}
+
 
 def get_names(count):
-    names = []
-    while len(names) < count:
-        names.append(fake.unique.name())
-    return names
+    return [fake.unique.name() for _ in range(count)]
 
 
 def populate_mock_data():
+    generate_new_employees(200)
+
     # company and client data
     while len(company_client_dict) < COMPANIES:
         company_name = fake.unique.company()
@@ -59,11 +69,20 @@ def populate_mock_data():
         company_industry_dict[company_name] = random.choice(list(industry_product_dict.keys()))
 
     # bank employee contacts
-    for employee_name in employee_names:
-        employee_designation_dict[employee_name] = random.choice(deal_types)
-        employee_department_dict[employee_name] = random.choice(bank_departments)
-        employee_industry_dict[employee_name] = random.choice(list(industry_product_dict.keys()))
-        employee_region_dict[employee_name] = random.choice(list(region_country_dict.keys()))
+
+
+def generate_new_employees(new_employees_count):
+    # employee data
+    new_employee_names = get_names(new_employees_count)
+
+    for new_employee_name in new_employee_names:
+        employee_names.append(new_employee_name)
+
+    for new_employee_name in new_employee_names:
+        employee_designation_dict[new_employee_name] = random.choice(deal_types)
+        employee_department_dict[new_employee_name] = random.choice(bank_departments)
+        employee_industry_dict[new_employee_name] = random.choice(list(industry_product_dict.keys()))
+        employee_region_dict[new_employee_name] = random.choice(list(region_country_dict.keys()))
 
 
 def generate_deals():
@@ -73,8 +92,15 @@ def generate_deals():
         if company_client_dict is None:
             return
 
+        loop_counter = 0
+
         # Choose random company and assign mock data
         while True:
+            loop_counter += 1
+
+            if loop_counter > 500:
+                generate_new_employees(10)
+
             company = random.choice(list(company_client_dict.keys()))
             client_name = random.choice(company_client_dict[company])
             industry = company_industry_dict[company]
@@ -86,7 +112,9 @@ def generate_deals():
             # only break when bank employee contact is suitable
             if (industry == employee_industry_dict[bank_employee_contact]
                     and region == employee_region_dict[bank_employee_contact]):
+                # map the client to the employee, then remove the employee
                 client_employee_dict[client_name] = bank_employee_contact
+                employee_names.remove(bank_employee_contact)
                 break
 
         deal_type = employee_designation_dict[bank_employee_contact]
@@ -143,18 +171,6 @@ def write_to_csv(filename, headers, data):
 
 
 if __name__ == '__main__':
-    # define mock data structures
-    client_names = []
-    employee_names = get_names(EMPLOYEES)
-    company_client_dict = {}
-    company_industry_dict = {}
-    company_region_dict = {}
-    client_employee_dict = {}
-    employee_department_dict = {}
-    employee_designation_dict = {}
-    employee_industry_dict = {}
-    employee_region_dict = {}
-
     populate_mock_data()
 
     write_to_csv("deals.csv", deals_header, generate_deals())
