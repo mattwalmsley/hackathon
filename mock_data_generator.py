@@ -50,7 +50,7 @@ def get_names(count):
 
 
 def populate_mock_data():
-    generate_new_employees(200)
+    generate_new_employees(new_employees_count=200, lists_to_add_to=[employee_names])
 
     # company and client data
     while len(company_client_dict) < COMPANIES:
@@ -71,12 +71,13 @@ def populate_mock_data():
     # bank employee contacts
 
 
-def generate_new_employees(new_employees_count):
+def generate_new_employees(new_employees_count, lists_to_add_to):
     # employee data
     new_employee_names = get_names(new_employees_count)
 
     for new_employee_name in new_employee_names:
-        employee_names.append(new_employee_name)
+        for list_to_add_to in lists_to_add_to:
+            list_to_add_to.append(new_employee_name)
 
     for new_employee_name in new_employee_names:
         employee_designation_dict[new_employee_name] = random.choice(deal_types)
@@ -92,36 +93,40 @@ def generate_deals():
         if company_client_dict is None:
             return
 
-        loop_counter = 0
+        match_found = False
+
+        # assign new list of employee names
+        eligible_employees = employee_names
 
         # Choose random company and assign mock data
-        while True:
-            loop_counter += 1
+        company = random.choice(list(company_client_dict.keys()))
+        client_name = random.choice(company_client_dict[company])
+        industry = company_industry_dict[company]
+        product = random.choice(industry_product_dict[industry])
+        region = company_region_dict[company]
+        country = random.choice(region_country_dict[region])
+        matched_employee = None
 
-            if loop_counter > 500:
-                generate_new_employees(10)
+        while not match_found:
 
-            company = random.choice(list(company_client_dict.keys()))
-            client_name = random.choice(company_client_dict[company])
-            industry = company_industry_dict[company]
-            product = random.choice(industry_product_dict[industry])
-            region = company_region_dict[company]
-            country = random.choice(region_country_dict[region])
-            bank_employee_contact = random.choice(employee_names)
+            for employee in eligible_employees:
+                # only break when bank employee contact is suitable
+                if industry == employee_industry_dict[employee] and region == employee_region_dict[employee]:
+                    matched_employee = employee
+                    match_found = True
+                    break
 
-            # only break when bank employee contact is suitable
-            if (industry == employee_industry_dict[bank_employee_contact]
-                    and region == employee_region_dict[bank_employee_contact]):
-                # map the client to the employee, then remove the employee
-                client_employee_dict[client_name] = bank_employee_contact
-                employee_names.remove(bank_employee_contact)
-                break
+            # add new eligible employees if none found after first pass
+            if not match_found:
+                eligible_employees = []
+                generate_new_employees(new_employees_count=10, lists_to_add_to=[eligible_employees, employee_names])
 
-        deal_type = employee_designation_dict[bank_employee_contact]
+        # map the client to the matched employee, find the deal_type, then remove the matched employee
+        client_employee_dict[client_name] = matched_employee
+        deal_type = employee_designation_dict[matched_employee]
+        employee_names.remove(matched_employee)
 
-        # Choose deal type based on bank employee contact designation
-
-        # Choose random start and end dates
+        # choose random start and end dates
         while True:
             deal_start = datetime.combine(fake.date_between_dates(date_start=start_date, date_end=end_date),
                                           datetime.min.time())
@@ -132,7 +137,7 @@ def generate_deals():
 
         # Append data row
         data.append([
-            row + 1, product, country, client_name, company, bank_employee_contact, deal_start.strftime('%Y-%m-%d'),
+            row + 1, product, country, client_name, company, matched_employee, deal_start.strftime('%Y-%m-%d'),
             deal_end.strftime('%Y-%m-%d'), deal_type
         ])
 
