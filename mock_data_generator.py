@@ -38,7 +38,7 @@ employee_names = []
 company_client_dict = {}
 company_industry_dict = {}
 company_region_dict = {}
-client_employee_dict = {}
+employee_client_dict = {}
 employee_department_dict = {}
 employee_designation_dict = {}
 employee_industry_dict = {}
@@ -122,9 +122,9 @@ def generate_deals():
                 generate_new_employees(new_employees_count=10, lists_to_add_to=[eligible_employees, employee_names])
 
         # map the client to the matched employee, find the deal_type, then remove the matched employee
-        client_employee_dict[client_name] = matched_employee
-        deal_type = employee_designation_dict[matched_employee]
+        employee_client_dict[matched_employee] = client_name
         employee_names.remove(matched_employee)
+        deal_type = employee_designation_dict[matched_employee]
 
         # choose random start and end dates
         while True:
@@ -146,7 +146,7 @@ def generate_deals():
 
 def generate_employees():
     data = []
-    for employee in client_employee_dict.values():
+    for employee in employee_client_dict.keys():
         data.append([
             employee, employee_department_dict[employee], employee_industry_dict[employee],
             employee_region_dict[employee], random.randint(1, MAX_IDEAL_CLIENTS_PER_EMPLOYEE),

@@ -1,201 +1,201 @@
 Deal ID,Product,Country,Client (Person),Client (Company),Bank Employee Contact,Start Date,End Date,Deal Type
-1,Precious Metals,Mexico,Tonya Washington,Brewer PLC,Amber Prince,2022-03-10,2022-06-08,Public
-2,Pharmaceuticals,Mexico,Stephen Sheppard,Ramirez Group,Lisa Wright,2023-08-07,2023-11-05,Public
-3,Theme Parks,Germany,Kenneth Walker,"Reed, Moyer and Montes",Kayla Allen,2022-07-06,2022-10-04,Private
-4,Oil & Gas,Canada,Diana Bowen,Cruz-Werner,Penny Miller,2023-05-13,2023-08-11,Private
-5,Chemicals,Canada,John Lewis,"Kelly, Gonzalez and Miller",Angela Santiago,2023-07-17,2023-10-15,Public
-6,Renewable Energy,Mexico,Jerome Lowe,Blankenship-Roman,Ricky Diaz,2022-04-13,2022-07-12,Private
-7,Musical Instruments,United States,Vickie Alexander,Bell-Walton,Craig Burns,2022-10-07,2023-01-05,Public
-8,Textbook Publishers,Canada,Tara Morgan,Stewart Inc,Karen Rocha,2023-10-02,2023-12-31,Public
-9,Oil & Gas,United States,Jordan Jackson,Cruz-Werner,Matthew Chandler,2023-06-10,2023-09-08,Private
-10,Insurance,Uruguay,Dr. Brandy Abbott,Romero-Lewis,Joshua Lucas,2022-01-03,2022-04-03,Private
-11,Commercial Property,Canada,James Nguyen,Dean Inc,Jeremy Shelton,2022-08-20,2022-11-18,Public
-12,Movie Studios,China,Kelly Doyle,"Barrera, Chavez and Perry",Patrick Noble,2022-03-20,2022-06-18,Private
-13,Textbook Publishers,Mexico,Julie Nelson,"Vazquez, Ball and Rosario",Amy Forbes,2022-03-10,2022-06-08,Private
-14,Theme Parks,Mexico,Katherine Mitchell,"Hodges, Tapia and Nguyen",Elizabeth Carney,2022-06-12,2022-09-10,Public
-15,Music Labels,China,Kelly Doyle,"Barrera, Chavez and Perry",Sean Nelson,2023-04-03,2023-07-02,Private
-16,Electronics,Jamaica,Stephen James,"Collins, Anderson and Boyer",Monica Stafford,2022-10-25,2023-01-23,Private
-17,Casinos,Cameroon,Paul Chavez,Johnson Ltd,Jennifer Brown,2023-07-04,2023-10-02,Private
-18,Home Appliances,Mexico,Tracy Benton,"Collins, Anderson and Boyer",Katie Woods,2022-09-13,2022-12-12,Public
-19,Video Game Companies,Canada,Paul Jacobs,"White, Bowen and Gilbert",Linda Gay,2022-01-19,2022-04-19,Public
-20,Electricity Providers,Canada,John Curry,Conner PLC,Heather Brown,2022-06-07,2022-09-05,Public
-21,Watches,Canada,Vickie Alexander,Bell-Walton,David Jimenez,2023-08-20,2023-11-18,Public
-22,Television Networks,Malaysia,Kelly Doyle,"Barrera, Chavez and Perry",Yolanda Carr,2022-02-11,2022-05-12,Private
-23,Outdoor Gear,Canada,Vickie Alexander,Bell-Walton,Natasha White,2023-05-24,2023-08-22,Private
-24,Movie Studios,China,Mary Miller,Hamilton LLC,Samuel Ortiz,2022-01-01,2022-04-01,Private
-25,Cruise Ships,United States,Stacy Garcia,"Cole, Morgan and Jones",Lori Gillespie,2022-10-04,2023-01-02,Public
-26,Cable Companies,United States,Todd Rojas,"Baker, Freeman and Hall",Dale Smith,2022-11-05,2023-02-03,Public
-27,Textbook Publishers,Malaysia,Gary Dorsey,Morgan-Garcia,Bradley Rogers,2022-12-09,2023-03-09,Public
-28,Insurance,Jamaica,Miss Theresa Scott,Roth-Jenkins,Lindsay White,2022-03-12,2022-06-10,Private
-29,Television Networks,United States,Natasha Carter DDS,Atkinson-Brooks,Bryan Murillo,2022-10-05,2023-01-03,Public
-30,Television Networks,Canada,Paul Jacobs,"White, Bowen and Gilbert",John Chavez,2022-03-29,2022-06-27,Private
-31,Home Appliances,Canada,Stacey Berg,"Heath, Moore and Howe",Donna Cole,2023-01-10,2023-04-10,Private
-32,Precious Metals,United States,Joe Mitchell,"Kelly, Gonzalez and Miller",Stephen Hancock,2023-04-27,2023-07-26,Private
-33,Casinos,United Kingdom,James Wood,Johnson Ltd,Abigail Miller,2022-10-23,2023-01-21,Private
-34,Home Appliances,India,Jorge Smith,Brewer-Chan,Kathy Patel,2023-09-21,2023-12-20,Private
-35,Automobile Manufacturers,Malaysia,Jessica Fuller,"Sanchez, Hayden and Kim",Holly Stein,2022-08-11,2022-11-09,Private
-36,Music Labels,China,Leslie Jones,Hamilton LLC,Kevin Robinson,2022-03-30,2022-06-28,Public
-37,Musical Instruments,Mexico,James Martin,Perez Inc,Sheri Ryan,2023-05-07,2023-08-05,Public
-38,Musical Instruments,Mexico,James Martin,Perez Inc,Todd Hill,2022-06-16,2022-09-14,Public
-39,Electronics,Canada,Michelle Reynolds,"Heath, Moore and Howe",Antonio Carter,2023-09-02,2023-12-01,Private
-40,Jewelry,Mexico,James Keller,Perez Inc,Andrew Booth,2022-07-21,2022-10-19,Public
-41,Telecom Equipment Manufacturers,Ireland,Amanda Watts,Carroll-Gutierrez,Robert Stark DVM,2022-02-17,2022-05-18,Public
-42,Residential Property,Germany,Taylor Mckinney,Huerta PLC,Tyler Fitzpatrick,2022-02-26,2022-05-27,Public
-43,Commercial Property,Canada,Gina Pearson,Martin Inc,Isabella Guerrero,2022-11-23,2023-02-21,Public
-44,Video Game Companies,United States,Paul Jacobs,"White, Bowen and Gilbert",Katherine Smith,2023-05-16,2023-08-14,Private
-45,Health Products,Malaysia,Randy Arnold,"Berry, Mclaughlin and Bird",Steven Vazquez,2022-04-20,2022-07-19,Public
-46,REITs,Mexico,Charlotte Duarte,Crane-Carr,Michelle Vance DDS,2023-09-21,2023-12-20,Private
-47,Schools,Mexico,Julie Nelson,"Vazquez, Ball and Rosario",Jose Murray,2022-10-13,2023-01-11,Private
-48,Theme Parks,Cameroon,Paul Chavez,Johnson Ltd,John Deleon,2022-06-29,2022-09-27,Private
-49,Commercial Property,Nigeria,Taylor Mckinney,Huerta PLC,Billy Brooks,2022-05-29,2022-08-27,Public
-50,Investment Management,Mexico,Miss Theresa Scott,Roth-Jenkins,Christine Schmidt,2022-03-13,2022-06-11,Public
-51,Hotels,Canada,Stephanie Perez,Walsh Ltd,Destiny Hall,2022-06-26,2022-09-24,Public
-52,Precious Metals,Nigeria,Brett Mitchell,Brennan-Huynh,Shannon May,2022-08-28,2022-11-26,Private
-53,Cruise Ships,Canada,Sharon Fowler,Walsh Ltd,Jeffrey Rich,2023-07-19,2023-10-17,Public
-54,Chemicals,Mexico,Vanessa Schmidt,Lowe Ltd,Sandra Montgomery,2023-06-13,2023-09-11,Public
-55,Precious Metals,Jamaica,Vanessa Schmidt,Lowe Ltd,Steven Clark,2022-07-19,2022-10-17,Private
-56,Schools,Canada,Tyler Evans,Stewart Inc,Robert Lee,2022-02-13,2022-05-14,Public
-57,Trucking Companies,Australia,Jessica Fuller,"Sanchez, Hayden and Kim",Miranda Moreno,2023-04-11,2023-07-10,Private
-58,Cruise Ships,Cameroon,Kenneth Walker,"Reed, Moyer and Montes",Mary Shelton,2022-10-08,2023-01-06,Public
-59,Oil & Gas,United States,Jordan Jackson,Cruz-Werner,Tamara Ruiz,2022-11-11,2023-02-09,Public
-60,Mining Equipment,Germany,Brett Mitchell,Brennan-Huynh,Alexis Lopez,2023-04-03,2023-07-02,Private
-61,Streaming Services,Nigeria,Julie Wiley,Guerrero-Sandoval,Jerry Solis,2022-06-19,2022-09-17,Private
-62,Investment Management,Mexico,Robert Robinson,Roth-Jenkins,Mrs. Ashley Perry,2023-01-09,2023-04-09,Private
-63,Renewable Energy,Mexico,Jennifer Miller,Blankenship-Roman,Blake Ritter,2023-08-07,2023-11-05,Public
-64,Commercial Property,United States,Samantha Turner,Dean Inc,Jason Vasquez,2023-04-07,2023-07-06,Public
-65,Oil & Gas,United States,Jordan Jackson,Cruz-Werner,Lisa Huber,2022-09-24,2022-12-23,Private
-66,Cruise Ships,United States,Regina Huang,"Cole, Morgan and Jones",Michael Jackson,2022-10-04,2023-01-02,Private
-67,Waste Management Companies,United Kingdom,Sherry Smith,Duncan Inc,Patrick Camacho,2022-09-24,2022-12-23,Private
-68,Commercial Property,United Arab Emirates,Robyn Thomas,"Velazquez, Blanchard and Watson",Hector Davis,2022-03-23,2022-06-21,Private
-69,Food & Beverages,Japan,Justin Hill,"Berry, Mclaughlin and Bird",Rachel Carroll,2022-12-18,2023-03-18,Private
-70,Toys,Mexico,Amber Blanchard,Perez Inc,Louis Turner,2023-05-13,2023-08-11,Public
-71,REITs,Costa Rica,Charlotte Duarte,Crane-Carr,Lisa Thomas,2022-07-10,2022-10-08,Public
-72,Precious Metals,Bahrain,Brett Mitchell,Brennan-Huynh,Allen Hawkins,2023-03-15,2023-06-13,Private
-73,Water Companies,United Kingdom,Sherry Smith,Duncan Inc,Alexander Jones,2023-08-03,2023-11-01,Private
-74,Airlines,Mexico,Karen Perkins,Williams-Anderson,Grant King,2022-10-04,2023-01-02,Private
-75,Railways,Mexico,Stephen Burns,Williams-Anderson,Hannah Clark,2022-07-24,2022-10-22,Private
-76,Telecom Equipment Manufacturers,Canada,Todd Rojas,"Baker, Freeman and Hall",Heather Green,2023-02-18,2023-05-19,Private
-77,Internet Service Providers,United States,Jasmine Webster,Moore LLC,Michelle Crawford,2023-02-22,2023-05-23,Private
-78,Movie Studios,United States,Kristen Garrison,"White, Bowen and Gilbert",Jonathan Solis,2023-07-05,2023-10-03,Public
-79,Electronics,Malaysia,Jorge Smith,Brewer-Chan,Jacob Rodriguez,2022-10-13,2023-01-11,Public
-80,Mining Equipment,Costa Rica,Tina Jacobs,Lowe Ltd,Leslie Richards,2022-10-26,2023-01-24,Public
-81,Internet Service Providers,Canada,Melissa Watson,Moore LLC,Alan Choi,2022-02-10,2022-05-11,Public
-82,REITs,Bahrain,Brett Baker,"Velazquez, Blanchard and Watson",Tina Phillips,2023-09-15,2023-12-14,Public
-83,Renewable Energy,Jamaica,Tony Richardson,Blankenship-Roman,Chad Bauer,2023-02-23,2023-05-24,Public
-84,Cruise Ships,Ireland,Paul Chavez,Johnson Ltd,John Schneider,2022-12-17,2023-03-17,Public
-85,Streaming Services,Canada,Paul Jacobs,"White, Bowen and Gilbert",Elizabeth Weber DVM,2022-02-22,2022-05-23,Private
-86,Water Companies,Canada,Cynthia Jenkins,Conner PLC,Carolyn Singh,2022-10-16,2023-01-14,Public
-87,Electronics,China,Jorge Smith,Brewer-Chan,Antonio Aguilar,2023-04-01,2023-06-30,Private
-88,Universities,Mexico,Ian Mckay,"Vazquez, Ball and Rosario",Elijah Ali,2022-06-01,2022-08-30,Public
-89,Banking Services,China,Jasmine May,Wright Group,Samuel Duncan,2022-02-09,2022-05-10,Private
-90,Natural Gas Providers,Canada,Cynthia Jenkins,Conner PLC,Michael Davis,2023-03-19,2023-06-17,Private
-91,Watches,Canada,Sonia Espinoza MD,Bell-Walton,Christopher Johnson,2023-02-05,2023-05-06,Private
-92,Oil & Gas,Uruguay,Tony Richardson,Blankenship-Roman,Justin Williams,2022-10-26,2023-01-24,Public
-93,Outdoor Gear,Malaysia,Shannon Wood,Richmond-Payne,Patrick Reeves,2022-01-22,2022-04-22,Private
-94,Railways,Jamaica,Karen Perkins,Williams-Anderson,Ricky Torres,2023-03-16,2023-06-14,Public
-95,Chemicals,Cameroon,Erin Mayer,Brennan-Huynh,Jennifer Dominguez,2023-02-03,2023-05-04,Public
-96,Pet Supplies,China,Randy Arnold,"Berry, Mclaughlin and Bird",Christopher Porter,2022-02-18,2022-05-19,Private
-97,Sports Equipment,Costa Rica,James Keller,Perez Inc,Ronald Patrick,2022-08-25,2022-11-23,Private
-98,Outdoor Gear,Canada,Kayla Harrington,Bell-Walton,Pamela Moss,2023-04-13,2023-07-12,Private
-99,Television Networks,Canada,Natasha Carter DDS,Atkinson-Brooks,Laura Garza,2023-02-23,2023-05-24,Public
-100,Mining Equipment,Canada,John Lewis,"Kelly, Gonzalez and Miller",Jeffery Carey,2023-03-25,2023-06-23,Public
-101,Movie Studios,Canada,Denise Wells,"White, Bowen and Gilbert",Erin Friedman,2022-06-20,2022-09-18,Public
-102,Jewelry,Japan,Shannon Wood,Richmond-Payne,Melody Gardner,2022-08-19,2022-11-17,Private
-103,Clothing,United States,Sonia Espinoza MD,Bell-Walton,Crystal Camacho,2022-01-19,2022-04-19,Private
-104,Wealth Management,Australia,Adam Lopez,Wright PLC,Sean Nguyen,2022-12-31,2023-03-31,Public
-105,Natural Gas Providers,China,Elizabeth Mendoza,"Armstrong, Sanchez and Peters",Cynthia Walton,2022-02-19,2022-05-20,Public
-106,Mining Equipment,Hungary,Brett Mitchell,Brennan-Huynh,Laura Anderson,2023-09-07,2023-12-06,Private
-107,Television Networks,China,Kelly Doyle,"Barrera, Chavez and Perry",Megan Cox,2022-05-22,2022-08-20,Private
-108,Casinos,United States,Kimberly Mckenzie,"Cole, Morgan and Jones",Leonard Terry,2022-08-08,2022-11-06,Public
-109,Mobile Phone Operators,Canada,Michael Dean,Moore LLC,Brooke Hill,2023-02-01,2023-05-02,Private
-110,Theme Parks,Nigeria,Randy Foster,Johnson Ltd,Jeffrey Collier,2022-01-19,2022-04-19,Public
-111,Health Products,Ireland,Francisco Gray,Thompson-Bryant,Traci Reyes,2022-10-16,2023-01-14,Public
-112,Renewable Energy,Uruguay,Tony Richardson,Blankenship-Roman,Richard Phillips,2022-02-28,2022-05-29,Public
-113,Movie Studios,United States,Natasha Carter DDS,Atkinson-Brooks,Kenneth Martinez,2022-08-29,2022-11-27,Public
-114,Commercial Property,Uruguay,Charlotte Duarte,Crane-Carr,Nicholas Valentine,2022-05-02,2022-07-31,Private
-115,Home Appliances,Uruguay,Stephen James,"Collins, Anderson and Boyer",Brandon Parsons,2023-07-17,2023-10-15,Public
-116,Food & Beverages,Australia,James Reed,Wiley PLC,Kelly Buchanan,2023-08-24,2023-11-22,Private
-117,Pharmaceuticals,United States,Dawn Ochoa,Howard-Gentry,Stephanie Sanders,2023-07-14,2023-10-12,Public
-118,REITs,Cameroon,Lauren Cochran,"Velazquez, Blanchard and Watson",Reginald Perez,2023-05-29,2023-08-27,Public
-119,Chemicals,United Arab Emirates,Erin Mayer,Brennan-Huynh,Cindy Cardenas,2022-06-10,2022-09-08,Private
-120,Hotels,Bahrain,Randy Foster,Johnson Ltd,Janet Adams,2023-06-06,2023-09-04,Public
-121,Movie Studios,Ireland,Jeffery Olson,Guerrero-Sandoval,Mary Moore,2023-07-07,2023-10-05,Private
-122,Automobile Manufacturers,Costa Rica,Karen Perkins,Williams-Anderson,Abigail Howell,2023-04-20,2023-07-19,Private
-123,Music Labels,China,Kelly Doyle,"Barrera, Chavez and Perry",William Martin,2023-02-09,2023-05-10,Private
-124,Automobile Manufacturers,Malaysia,Jessica Fuller,"Sanchez, Hayden and Kim",Nicole Ward,2023-02-11,2023-05-12,Public
-125,Trucking Companies,Canada,Patricia Kennedy,"Moore, Jacobs and Guzman",Angelica Kennedy,2022-05-23,2022-08-21,Public
-126,Chemicals,Germany,Brett Mitchell,Brennan-Huynh,Adam Escobar,2023-06-09,2023-09-07,Public
-127,Musical Instruments,United States,Casey Jimenez,Bell-Walton,Laura George,2022-07-25,2022-10-23,Private
-128,Watches,Uruguay,Jessica Lutz,Perez Inc,Samantha Munoz,2023-03-13,2023-06-11,Private
-129,Pharmaceuticals,Canada,Dawn Ochoa,Howard-Gentry,Kyle Edwards,2022-12-30,2023-03-30,Public
-130,Hotels,United States,Kimberly Mckenzie,"Cole, Morgan and Jones",Robert Wolfe,2023-07-12,2023-10-10,Private
-131,Residential Property,Cameroon,Charles Elliott,Huerta PLC,Michele Barnett,2022-02-12,2022-05-13,Public
-132,Mobile Phone Operators,Canada,Todd Rojas,"Baker, Freeman and Hall",Mackenzie Watkins,2022-10-10,2023-01-08,Private
-133,Trucking Companies,India,Jessica Fuller,"Sanchez, Hayden and Kim",Sophia Olson,2023-01-17,2023-04-17,Private
-134,Clothing,India,Kristy Larson,Richmond-Payne,Thomas Williams,2022-05-13,2022-08-11,Public
-135,Commercial Property,Canada,Erin Scott,Martin Inc,Brian Thomas,2022-07-11,2022-10-09,Public
-136,REITs,United States,Kelsey Odom,Dean Inc,Travis Gray,2022-03-22,2022-06-20,Private
-137,Car,Australia,Caleb Herring,Richmond-Payne,Joshua Garcia,2023-09-15,2023-12-14,Private
-138,Hotels,Cameroon,Randy Foster,Johnson Ltd,Lauren Smith,2022-10-05,2023-01-03,Private
-139,Chemicals,Mexico,David Ferguson,Lowe Ltd,Alexis Stewart,2023-05-04,2023-08-02,Public
-140,Restaurants,Ireland,Randy Foster,Johnson Ltd,Patricia Woods,2023-03-28,2023-06-26,Private
-141,Commercial Property,United States,Darryl Brennan,Dean Inc,Ashley Leonard,2022-02-28,2022-05-29,Private
-142,Home Appliances,Jamaica,Stephen James,"Collins, Anderson and Boyer",Dustin Gilbert,2022-11-11,2023-02-09,Private
-143,Pharmaceuticals,Costa Rica,Stephen Sheppard,Ramirez Group,Karla Smith,2023-06-14,2023-09-12,Private
-144,Universities,Japan,Gary Dorsey,Morgan-Garcia,Kevin Irwin,2023-07-24,2023-10-22,Public
-145,Precious Metals,United Arab Emirates,Erin Mayer,Brennan-Huynh,Joseph Romero,2022-02-01,2022-05-02,Public
-146,Chemicals,Jamaica,Catherine Berg,Brewer PLC,Albert Edwards,2023-06-09,2023-09-07,Public
-147,Water Companies,Singapore,Eric Carroll,"Armstrong, Sanchez and Peters",Amy Cole,2023-06-05,2023-09-03,Private
-148,Hotels,United States,Kimberly Mckenzie,"Cole, Morgan and Jones",Michael Campbell,2022-01-10,2022-04-10,Public
-149,Insurance,Singapore,Marcus Cline,Wright Group,Timothy Kerr,2022-12-11,2023-03-11,Private
-150,Electronics,Mexico,Tracy Benton,"Collins, Anderson and Boyer",Ricardo Valentine,2022-12-25,2023-03-25,Public
-151,Video Game Companies,Australia,Mary Miller,Hamilton LLC,James Morris DVM,2022-10-02,2022-12-31,Private
-152,Sports Equipment,United States,Casey Jimenez,Bell-Walton,Todd Long,2022-04-20,2022-07-19,Public
-153,Investment Management,Costa Rica,Robert Robinson,Roth-Jenkins,Christina Winters,2023-03-20,2023-06-18,Private
-154,Universities,Malaysia,Gary Dorsey,Morgan-Garcia,Amanda Sullivan,2022-01-04,2022-04-04,Public
-155,Video Game Companies,Singapore,Kelly Doyle,"Barrera, Chavez and Perry",Jeanne Ward,2023-05-26,2023-08-24,Private
-156,Renewable Energy,Canada,Jordan Jackson,Cruz-Werner,Ralph Perez,2022-01-02,2022-04-02,Private
-157,Health Products,China,Justin Hill,"Berry, Mclaughlin and Bird",Matthew Jones,2023-02-05,2023-05-06,Private
-158,Television Networks,Australia,Mary Miller,Hamilton LLC,Maria Young,2022-06-30,2022-09-28,Private
-159,Insurance,Japan,James Castillo,Wright PLC,Tiffany Contreras,2023-02-08,2023-05-09,Private
-160,Pet Supplies,Japan,Randy Arnold,"Berry, Mclaughlin and Bird",Teresa Chapman,2022-04-29,2022-07-28,Private
-161,Cable Companies,Canada,Michael Dean,Moore LLC,Brenda Norton,2022-08-24,2022-11-22,Private
-162,Food & Beverages,Japan,Justin Hill,"Berry, Mclaughlin and Bird",Julie Schneider,2022-05-06,2022-08-04,Private
-163,Pharmaceuticals,Jamaica,Michael Walters,Ramirez Group,Kathleen Wolf,2022-10-20,2023-01-18,Private
-164,Restaurants,Canada,Stephanie Perez,Walsh Ltd,Alan Rodriguez,2022-09-26,2022-12-25,Public
-165,Pharmaceuticals,United States,Dawn Ochoa,Howard-Gentry,Carrie Johnson,2023-04-25,2023-07-24,Public
-166,Railways,India,Jessica Fuller,"Sanchez, Hayden and Kim",Tiffany Palmer,2023-07-31,2023-10-29,Private
-167,Mining Equipment,Costa Rica,Tina Jacobs,Lowe Ltd,Jennifer Murphy,2023-06-25,2023-09-23,Public
-168,Natural Gas Providers,Canada,Cynthia Jenkins,Conner PLC,Matthew Willis,2023-05-17,2023-08-15,Private
-169,Banking Services,Australia,James Castillo,Wright PLC,Kayla Walton,2022-05-21,2022-08-19,Private
-170,Outdoor Gear,China,Tina Fernandez,Richmond-Payne,Lucas Holt,2022-03-29,2022-06-27,Public
-171,Restaurants,United Kingdom,Kenneth Walker,"Reed, Moyer and Montes",Charles Kim,2022-06-12,2022-09-10,Private
-172,Cable Companies,Germany,Amanda Watts,Carroll-Gutierrez,Ronald Larsen,2023-06-10,2023-09-08,Private
-173,REITs,Costa Rica,Chelsey Jennings,Crane-Carr,Charles Smith,2023-04-15,2023-07-14,Public
-174,Streaming Services,Australia,Kelly Doyle,"Barrera, Chavez and Perry",Beth Hernandez,2023-05-09,2023-08-07,Private
-175,Baby Products,Malaysia,Michael Lynn,Wiley PLC,Elizabeth Wilson,2023-04-03,2023-07-02,Private
-176,Movie Studios,United Arab Emirates,Julie Wiley,Guerrero-Sandoval,Jeffrey Figueroa,2023-04-28,2023-07-27,Public
-177,REITs,Germany,Robyn Thomas,"Velazquez, Blanchard and Watson",Kayla Brown,2022-02-16,2022-05-17,Public
-178,Car,India,Caleb Herring,Richmond-Payne,Sierra Wilson,2022-01-11,2022-04-11,Public
-179,Textbook Publishers,Jamaica,Brandon Fuller,"Vazquez, Ball and Rosario",Jonathan Swanson,2023-02-09,2023-05-10,Private
-180,Shipping Companies,China,Jessica Fuller,"Sanchez, Hayden and Kim",Brittany Mccullough,2023-04-14,2023-07-13,Private
-181,Automobile Manufacturers,Costa Rica,John Washington,Williams-Anderson,Nicole West,2022-11-28,2023-02-26,Public
-182,Electricity Providers,Malaysia,Eric Carroll,"Armstrong, Sanchez and Peters",Nichole Fischer,2022-03-20,2022-06-18,Private
-183,Baby Products,China,Tina Murphy,Wiley PLC,Maria Santana,2022-01-15,2022-04-15,Private
-184,Banking Services,Japan,Adam Lopez,Wright PLC,Laura Greer,2023-09-16,2023-12-15,Public
-185,Theme Parks,United States,Stephanie Perez,Walsh Ltd,Michael Fox,2022-11-07,2023-02-05,Public
-186,Universities,Uruguay,Ian Mckay,"Vazquez, Ball and Rosario",Renee Thomas,2022-12-10,2023-03-10,Private
-187,Investment Management,Singapore,Marcus Cline,Wright Group,Hayden Watson,2022-11-26,2023-02-24,Public
-188,Chemicals,Costa Rica,Vanessa Schmidt,Lowe Ltd,Mackenzie Johnson,2023-07-21,2023-10-19,Public
-189,Movie Studios,Malaysia,Kelly Doyle,"Barrera, Chavez and Perry",Bryan Barrera,2022-04-09,2022-07-08,Private
-190,Commercial Property,United States,Gina Pearson,Martin Inc,Amy Brady,2023-04-03,2023-07-02,Private
-191,Restaurants,Ireland,Kenneth Walker,"Reed, Moyer and Montes",Kevin Mccall,2022-02-02,2022-05-03,Public
-192,Natural Gas Providers,China,Elizabeth Mendoza,"Armstrong, Sanchez and Peters",Michael Jacobson,2023-07-19,2023-10-17,Private
-193,Online Education Platforms,Australia,Gary Dorsey,Morgan-Garcia,Amy Dillon,2023-01-10,2023-04-10,Private
-194,Insurance,Singapore,Adam Lopez,Wright PLC,Peter Hansen,2023-03-16,2023-06-14,Private
-195,Outdoor Gear,China,Tina Fernandez,Richmond-Payne,Jesus Nguyen,2022-05-28,2022-08-26,Public
-196,Waste Management Companies,United Kingdom,Elizabeth Clayton,Duncan Inc,Michael Young,2022-05-22,2022-08-20,Private
-197,Residential Property,United States,Erin Scott,Martin Inc,Teresa Carlson,2022-04-21,2022-07-20,Private
-198,Precious Metals,Germany,Erin Mayer,Brennan-Huynh,Christopher Campbell,2022-05-04,2022-08-02,Private
-199,Online Education Platforms,United States,Trevor Horn,Stewart Inc,Wanda Perkins,2022-10-27,2023-01-25,Private
-200,Precious Metals,Jamaica,Catherine Berg,Brewer PLC,Lauren Miller,2023-08-05,2023-11-03,Public
+1,Home Appliances,India,Elizabeth Oconnell,"Hunter, Rivera and Hardy",Julie Snyder,2023-05-13,2023-08-11,Public
+2,Pharmaceuticals,Canada,Nicholas Taylor,Walls-Winters,Jacob Conner,2022-03-18,2022-06-16,Private
+3,Casinos,Australia,James Roberts,Ellis LLC,Susan Gonzales,2022-01-19,2022-04-19,Private
+4,Internet Service Providers,Ireland,Mark White,"Glass, Gonzales and Henderson",Vickie Sanders DVM,2022-07-19,2022-10-17,Private
+5,Home Appliances,China,Carrie Dalton,Newton-Ruiz,Valerie Jacobson,2023-09-01,2023-11-30,Private
+6,Electronics,Uruguay,Jesse Simmons,Carter-Brooks,Anthony Rosales,2022-05-27,2022-08-25,Private
+7,Electricity Providers,United States,John Cunningham,Cobb LLC,Shelby Acosta,2022-02-28,2022-05-29,Private
+8,Mobile Phone Operators,Canada,Steven West,Adams-Hall,Melissa Wood,2023-03-10,2023-06-08,Private
+9,Telecom Equipment Manufacturers,Germany,Mark White,"Glass, Gonzales and Henderson",Joshua Strickland,2023-04-01,2023-06-30,Public
+10,Video Game Companies,Canada,Debbie Cunningham DVM,"Mitchell, Walker and Burke",Melinda Hogan,2022-12-21,2023-03-21,Private
+11,Shipping Companies,Mexico,Tiffany Hanson DDS,"Murphy, Price and Berry",Dr. Nicholas James,2022-03-23,2022-06-21,Public
+12,Chemicals,China,Michael Baker,"Dean, Skinner and Lee",Jorge Bailey,2022-11-10,2023-02-08,Private
+13,Schools,United Kingdom,Kara Martinez,"Stone, Martinez and Taylor",Jason Garcia,2022-08-04,2022-11-02,Public
+14,REITs,Canada,Stacy Stephenson,"Shaw, Hale and Ross",Theresa Francis,2023-02-22,2023-05-23,Private
+15,Electricity Providers,Canada,Jonathan Johnson,Cobb LLC,Laura Robinson,2022-10-03,2023-01-01,Public
+16,Chemicals,Japan,Michael Baker,"Dean, Skinner and Lee",Linda James,2022-02-20,2022-05-21,Private
+17,Mobile Phone Operators,United Kingdom,Mark White,"Glass, Gonzales and Henderson",Sean Cummings,2023-04-03,2023-07-02,Public
+18,Pet Supplies,Hungary,Karen Valdez,Torres-Hobbs,Jeremiah Mason,2023-07-13,2023-10-11,Public
+19,Trucking Companies,Costa Rica,William Howard,Roberts Ltd,Daniel Hill,2022-02-08,2022-05-09,Private
+20,Mining Equipment,United States,Cristian Garcia,Chang PLC,Edward Mayo,2023-06-09,2023-09-07,Public
+21,Electronics,Canada,Teresa Morton,Moore LLC,Andrea Gallagher,2023-09-16,2023-12-15,Private
+22,Pharmaceuticals,Germany,Roger Day,"Guerrero, Flores and Carter",Brandon Dillon,2022-12-27,2023-03-27,Public
+23,Cable Companies,United Arab Emirates,Melissa Deleon,Campbell-Morse,James Hunter,2023-10-01,2023-12-30,Private
+24,Health Products,Hungary,Karen Valdez,Torres-Hobbs,Denise Bailey,2022-07-03,2022-10-01,Private
+25,Music Labels,Cameroon,Charles Carey,Hill LLC,Amber Williamson,2023-05-16,2023-08-14,Private
+26,Insurance,Uruguay,Robert Paul,Williams Inc,Mark Oneill,2023-04-25,2023-07-24,Private
+27,Pharmaceuticals,Canada,Stacey Bowen,Walls-Winters,Donald Martinez,2022-10-08,2023-01-06,Public
+28,Oil & Gas,Canada,Carolyn Page,"Clarke, Frank and Hayes",David Ramos,2023-05-12,2023-08-10,Private
+29,Wealth Management,Costa Rica,Timothy Butler,"Johnson, Wright and Hayes",Tracy Kelly,2022-08-31,2022-11-29,Private
+30,Trucking Companies,China,Luis Andrade,Morgan-Rivera,Douglas Kramer,2022-05-02,2022-07-31,Private
+31,Renewable Energy,Canada,James Brown,"Clarke, Frank and Hayes",Darin Richards,2022-11-22,2023-02-20,Private
+32,Pharmaceuticals,India,Shannon Walker,"Cowan, Ward and Mckenzie",Jennifer Palmer,2022-12-04,2023-03-04,Private
+33,Clothing,United States,Tracy Reese,Morgan Inc,Michael Rivera,2022-03-10,2022-06-08,Public
+34,Cable Companies,Canada,Steven West,Adams-Hall,Cheryl Tucker,2023-05-30,2023-08-28,Public
+35,Video Game Companies,United Kingdom,Jessica Ryan,Hill LLC,Rebecca Ferguson,2023-06-02,2023-08-31,Public
+36,Home Appliances,Malaysia,Todd Davis,Daniel Ltd,Richard Roberts,2022-03-29,2022-06-27,Private
+37,Television Networks,United States,Adam Diaz,"Mitchell, Walker and Burke",Jenna Morris,2022-10-04,2023-01-02,Private
+38,Investment Management,Jamaica,Kyle Wright,"Johnson, Wright and Hayes",Jennifer Castro,2023-06-17,2023-09-15,Private
+39,Chemicals,Australia,Austin Robinson,"Dean, Skinner and Lee",Michael Roy,2022-05-04,2022-08-02,Public
+40,Precious Metals,Cameroon,Emily Jackson,Marquez Inc,Amanda Gonzalez,2022-03-07,2022-06-05,Private
+41,Pharmaceuticals,China,Jason Waller,"Cowan, Ward and Mckenzie",Sean Gomez,2022-01-15,2022-04-15,Public
+42,Renewable Energy,United States,Carolyn Page,"Clarke, Frank and Hayes",Michael Brown,2022-09-21,2022-12-20,Public
+43,Home Appliances,Singapore,Carrie Dalton,Newton-Ruiz,Shelby Perez,2022-01-30,2022-04-30,Public
+44,Shipping Companies,Australia,Ashley Martinez,Morgan-Rivera,Tracy Simpson,2023-04-02,2023-07-01,Public
+45,Investment Management,Canada,Sara Miller,Caldwell Inc,Wayne Barnett,2022-01-07,2022-04-07,Public
+46,Banking Services,Bahrain,Jodi Fuller,Arnold Group,Laura Young,2022-10-10,2023-01-08,Private
+47,Precious Metals,United States,Cristian Garcia,Chang PLC,Morgan Smith,2023-04-22,2023-07-21,Public
+48,Mobile Phone Operators,Canada,Gregory Hood,Adams-Hall,James Hebert,2022-03-08,2022-06-06,Private
+49,Pharmaceuticals,Japan,Danny Williams,Watson and Sons,Jesse Mullen,2022-05-29,2022-08-27,Private
+50,Electricity Providers,United Kingdom,Laura Travis,Brown-Davis,Christy Taylor,2022-04-18,2022-07-17,Private
+51,Insurance,Mexico,Sandra Simpson,Williams Inc,Lisa Beasley,2022-05-26,2022-08-24,Private
+52,Sports Equipment,United States,Jordan Camacho,Morgan Inc,Sara Baldwin,2023-01-21,2023-04-21,Public
+53,Television Networks,Bahrain,Bruce Bailey,Hill LLC,Dawn Willis,2022-02-11,2022-05-12,Public
+54,Electronics,United States,Teresa Morton,Moore LLC,Teresa Perkins,2023-08-29,2023-11-27,Private
+55,Electronics,Jamaica,Tammy Rodriguez,Carter-Brooks,Jennifer Davis,2022-05-28,2022-08-26,Private
+56,Internet Service Providers,Hungary,Mark White,"Glass, Gonzales and Henderson",Denise Payne,2023-08-14,2023-11-12,Private
+57,Mining Equipment,Bahrain,Mark Osborne,Marquez Inc,Dr. Kristin Rowland,2023-01-14,2023-04-14,Private
+58,Cable Companies,Canada,Richard Cannon,Joyce-Lopez,Glenn Vargas,2022-02-14,2022-05-15,Private
+59,Pharmaceuticals,United States,Marco Smith,Klein PLC,Kyle Murphy,2023-03-04,2023-06-02,Public
+60,Universities,Uruguay,Ruben Dudley,Stevens and Sons,Harry Ray,2022-03-03,2022-06-01,Public
+61,Water Companies,United States,Austin Martinez,Cobb LLC,James Santiago,2023-07-18,2023-10-16,Private
+62,Commercial Property,Canada,Stacy Stephenson,"Shaw, Hale and Ross",Justin Harrington,2022-06-06,2022-09-04,Public
+63,Pharmaceuticals,Bahrain,Roger Day,"Guerrero, Flores and Carter",Shelby Pope,2022-03-03,2022-06-01,Public
+64,Shipping Companies,Germany,Antonio Bauer,Hahn Inc,Richard Mason,2023-06-11,2023-09-09,Public
+65,Home Appliances,Japan,Nicole Clark,Banks-Gray,Dana Stout,2022-12-23,2023-03-23,Public
+66,Mobile Phone Operators,Germany,Mark White,"Glass, Gonzales and Henderson",Kevin Joyce,2022-12-11,2023-03-11,Public
+67,Oil & Gas,United States,Carolyn Page,"Clarke, Frank and Hayes",Stacy Lopez,2022-10-09,2023-01-07,Private
+68,Electronics,Singapore,Denise Carpenter,Daniel Ltd,Michael Kelly,2023-04-07,2023-07-06,Private
+69,Internet Service Providers,United Kingdom,Mark White,"Glass, Gonzales and Henderson",Theresa West,2023-06-14,2023-09-12,Public
+70,Chemicals,Japan,Jennifer Roberts,"Dean, Skinner and Lee",Vincent Robinson,2022-10-15,2023-01-13,Public
+71,Home Appliances,Japan,Christina Austin,Banks-Gray,Rebecca Jones,2022-05-31,2022-08-29,Private
+72,Electronics,United States,Teresa Morton,Moore LLC,Debra Murray,2023-01-22,2023-04-22,Public
+73,Banking Services,Jamaica,Joshua Hunter,Williams Inc,Patricia Williams,2022-12-28,2023-03-28,Private
+74,Food & Beverages,Ireland,Karen Valdez,Torres-Hobbs,Gregory Taylor,2022-08-06,2022-11-04,Private
+75,Electronics,Singapore,Mr. Douglas Moore,"Hunter, Rivera and Hardy",Benjamin Moore,2022-09-16,2022-12-15,Public
+76,Wealth Management,United Arab Emirates,Jodi Fuller,Arnold Group,Geoffrey Nguyen,2022-07-06,2022-10-04,Private
+77,Restaurants,Canada,Jerry Santiago,Johnson LLC,Mariah Phillips,2022-04-26,2022-07-25,Private
+78,Shipping Companies,Hungary,George Lee,Hahn Inc,Jennifer Thomas,2023-08-02,2023-10-31,Private
+79,Insurance,Uruguay,Joshua Hunter,Williams Inc,Mrs. Donna Higgins,2022-11-18,2023-02-16,Public
+80,Pharmaceuticals,Uruguay,Steven Phillips,"Turner, Becker and Lopez",Stephen Koch,2023-04-26,2023-07-25,Private
+81,Pharmaceuticals,Malaysia,Danny Williams,Watson and Sons,Christian Ramos,2022-09-04,2022-12-03,Public
+82,Online Education Platforms,Bahrain,Kara Martinez,"Stone, Martinez and Taylor",Karen Thornton,2022-01-21,2022-04-21,Private
+83,REITs,Hungary,Erin Hunter DDS,Harvey-Brown,Katherine Carter,2022-03-28,2022-06-26,Public
+84,Mobile Phone Operators,United States,Richard Cannon,Joyce-Lopez,John Bennett,2022-10-21,2023-01-19,Public
+85,Insurance,Uruguay,Sandra Simpson,Williams Inc,Cynthia Jennings,2023-04-13,2023-07-12,Public
+86,Commercial Property,United States,Stacy Stephenson,"Shaw, Hale and Ross",Patrick Griffin,2023-06-25,2023-09-23,Private
+87,REITs,Canada,Stacy Stephenson,"Shaw, Hale and Ross",Danielle Watson,2023-08-27,2023-11-25,Public
+88,Water Companies,Hungary,Jeffrey Simpson,Obrien-Perry,Jason Peterson,2022-12-22,2023-03-22,Private
+89,Insurance,Mexico,Timothy Butler,"Johnson, Wright and Hayes",Paul Paul,2023-09-09,2023-12-08,Private
+90,Oil & Gas,United States,Carolyn Page,"Clarke, Frank and Hayes",Todd Murphy,2022-01-26,2022-04-26,Public
+91,Pharmaceuticals,Bahrain,Roger Day,"Guerrero, Flores and Carter",Stacy Perez,2022-04-08,2022-07-07,Public
+92,Music Labels,Malaysia,Mr. Jim Bender,Avery-Green,Robert Compton,2022-07-09,2022-10-07,Public
+93,Pharmaceuticals,United States,Roberta Jensen,Walls-Winters,Richard Lester,2022-06-06,2022-09-04,Private
+94,Pharmaceuticals,Cameroon,Roger Day,"Guerrero, Flores and Carter",Leslie Rodriguez DDS,2022-06-25,2022-09-23,Private
+95,Casinos,Canada,Michael Schaefer,Johnson LLC,Kimberly Moore,2023-03-24,2023-06-22,Public
+96,Health Products,Japan,Lindsay Pierce,Oliver-Cole,Julie Johnson,2022-10-03,2023-01-01,Private
+97,Pharmaceuticals,Malaysia,Shannon Walker,"Cowan, Ward and Mckenzie",Todd West,2022-12-05,2023-03-05,Public
+98,Residential Property,United States,David Brown,"Scott, York and Mendoza",Wendy West,2023-05-07,2023-08-05,Private
+99,Home Appliances,Costa Rica,Jesse Simmons,Carter-Brooks,Rebekah Quinn,2022-11-12,2023-02-10,Private
+100,Precious Metals,Malaysia,Michael Baker,"Dean, Skinner and Lee",Jessica Schmidt,2023-02-20,2023-05-21,Public
+101,Telecom Equipment Manufacturers,Canada,Michelle Williams,Adams-Hall,Joseph Richardson,2023-09-30,2023-12-29,Public
+102,Pet Supplies,United Kingdom,Karen Valdez,Torres-Hobbs,Thomas Herrera PhD,2022-10-30,2023-01-28,Private
+103,Home Appliances,Singapore,Carrie Dalton,Newton-Ruiz,Kayla Gonzalez,2022-01-18,2022-04-18,Public
+104,Natural Gas Providers,Costa Rica,Christina Arnold,"Garcia, Young and Powell",Tiffany Martin,2022-05-12,2022-08-10,Public
+105,Chemicals,Singapore,Jenna Thompson,"Dean, Skinner and Lee",Jennifer Smith,2022-12-07,2023-03-07,Private
+106,Home Appliances,Singapore,Nicole Clark,Banks-Gray,Nathan Li,2022-03-30,2022-06-28,Public
+107,Pharmaceuticals,Ireland,Roger Day,"Guerrero, Flores and Carter",Joshua Stone,2022-03-31,2022-06-29,Public
+108,Precious Metals,Nigeria,Emily Jackson,Marquez Inc,Warren Williams,2023-01-19,2023-04-19,Private
+109,Airlines,Mexico,Tiffany Hanson DDS,"Murphy, Price and Berry",Jennifer Tucker,2022-04-17,2022-07-16,Public
+110,Pharmaceuticals,Canada,Roberta Jensen,Walls-Winters,Denise Drake,2022-10-28,2023-01-26,Private
+111,Chemicals,United States,Cristian Garcia,Chang PLC,Laura Jackson,2022-10-25,2023-01-23,Public
+112,Pet Supplies,Nigeria,Karen Valdez,Torres-Hobbs,Jack Dawson,2022-03-20,2022-06-18,Private
+113,Pharmaceuticals,China,Danny Williams,Watson and Sons,Elizabeth Cantu,2023-06-24,2023-09-22,Public
+114,Casinos,United States,Jerry Santiago,Johnson LLC,Douglas Strong,2023-09-07,2023-12-06,Private
+115,Home Appliances,Australia,Amber Lang,Daniel Ltd,Amy Scott,2022-06-04,2022-09-02,Private
+116,Health Products,China,Erica Gill,Oliver-Cole,Daniel Wagner,2022-05-31,2022-08-29,Public
+117,Automobile Manufacturers,Cameroon,Antonio Bauer,Hahn Inc,Emily Ortiz,2022-01-04,2022-04-04,Public
+118,Home Appliances,Singapore,Amber Lang,Daniel Ltd,Ashley White,2022-09-02,2022-12-01,Private
+119,Pharmaceuticals,Ireland,Roger Day,"Guerrero, Flores and Carter",Alex Browning,2022-02-23,2022-05-24,Private
+120,Airlines,Costa Rica,Tiffany Hanson DDS,"Murphy, Price and Berry",Michael Perez,2023-08-28,2023-11-26,Private
+121,Pet Supplies,Japan,Mia Palmer,Oliver-Cole,Miss Yolanda Parsons DDS,2022-10-19,2023-01-17,Public
+122,Renewable Energy,United States,Carolyn Page,"Clarke, Frank and Hayes",Timothy Richardson,2022-03-23,2022-06-21,Private
+123,Home Appliances,Canada,Tonya Phillips,"Miller, Vance and Meyers",Patricia Stevens,2022-08-03,2022-11-01,Public
+124,Casinos,United States,Wyatt Walters,Johnson LLC,Brenda Murphy,2023-02-01,2023-05-02,Private
+125,Pharmaceuticals,Australia,Jason Waller,"Cowan, Ward and Mckenzie",Anthony Boyd Jr.,2023-06-27,2023-09-25,Private
+126,Insurance,Cameroon,Christopher Gentry,Arnold Group,Amanda Ponce,2022-02-27,2022-05-28,Private
+127,Pharmaceuticals,Canada,Amanda Cook,Klein PLC,Martin Frank DDS,2022-07-29,2022-10-27,Private
+128,Precious Metals,Nigeria,Elizabeth Nelson PhD,"Cox, Carroll and Murphy",Jessica Meyer,2023-03-20,2023-06-18,Public
+129,Internet Service Providers,United States,Richard Cannon,Joyce-Lopez,Alexander Gay,2022-04-14,2022-07-13,Private
+130,Pharmaceuticals,United Kingdom,Roger Day,"Guerrero, Flores and Carter",Jacob Rodriguez,2022-03-18,2022-06-16,Private
+131,Home Appliances,Malaysia,Carrie Dalton,Newton-Ruiz,Daniel Schmidt,2022-03-04,2022-06-02,Private
+132,Automobile Manufacturers,Uruguay,Justin Salazar,Roberts Ltd,Gregory Evans,2022-04-08,2022-07-07,Private
+133,Shipping Companies,Bahrain,Angela Mayer,Hahn Inc,Brian White,2022-05-14,2022-08-12,Private
+134,Home Appliances,Canada,Karen Orr,"Miller, Vance and Meyers",Michael Wise,2022-09-28,2022-12-27,Public
+135,Precious Metals,United States,Cristian Garcia,Chang PLC,Dustin Price,2022-08-09,2022-11-07,Private
+136,Mobile Phone Operators,Uruguay,Jeffrey Diaz,Mcdowell-Stevens,Eric Flynn,2023-05-01,2023-07-30,Public
+137,Movie Studios,United States,Kevin Terry,"Mitchell, Walker and Burke",April Bowers,2023-05-17,2023-08-15,Public
+138,Mining Equipment,United States,Cristian Garcia,Chang PLC,Theresa Young,2022-12-08,2023-03-08,Private
+139,Mining Equipment,Canada,Cristian Garcia,Chang PLC,Daniel Parker,2022-07-30,2022-10-28,Private
+140,Chemicals,Japan,Jennifer Roberts,"Dean, Skinner and Lee",Angela Hunter,2023-09-26,2023-12-25,Private
+141,Precious Metals,Germany,Alyssa Walker,Marquez Inc,Christopher Phillips,2023-03-12,2023-06-10,Private
+142,Electronics,Canada,Teresa Morton,Moore LLC,Benjamin Smith II,2023-07-12,2023-10-10,Public
+143,Wealth Management,Jamaica,Kyle Wright,"Johnson, Wright and Hayes",Jason Mullins,2022-04-10,2022-07-09,Private
+144,Railways,Uruguay,Tiffany Hanson DDS,"Murphy, Price and Berry",Kirsten Perez,2022-05-23,2022-08-21,Public
+145,Chemicals,United Kingdom,Samantha Stanley,"Cox, Carroll and Murphy",Matthew Russell,2022-08-22,2022-11-20,Private
+146,REITs,United States,Stacy Stephenson,"Shaw, Hale and Ross",Robert Berger,2023-08-14,2023-11-12,Public
+147,Baby Products,Australia,Lindsay Pierce,Oliver-Cole,Scott Haynes,2022-02-11,2022-05-12,Private
+148,Renewable Energy,Canada,Jerry Leon DVM,Morse-Porter,Michelle Gregory,2023-08-09,2023-11-07,Private
+149,Music Labels,Canada,Debbie Cunningham DVM,"Mitchell, Walker and Burke",Tiffany Mayo,2022-09-05,2022-12-04,Public
+150,Theme Parks,Japan,James Roberts,Ellis LLC,Jocelyn Taylor,2022-07-16,2022-10-14,Private
+151,Wealth Management,United Kingdom,Jennifer Nolan,Arnold Group,Brandi Brown,2023-01-09,2023-04-09,Public
+152,Telecom Equipment Manufacturers,United States,Michelle Williams,Adams-Hall,Michael Kaufman,2023-03-23,2023-06-21,Public
+153,Music Labels,Canada,Kevin Terry,"Mitchell, Walker and Burke",Elaine Hess,2022-02-09,2022-05-10,Private
+154,Chemicals,India,Jennifer Roberts,"Dean, Skinner and Lee",Lorraine Ballard,2022-08-21,2022-11-19,Public
+155,Schools,Uruguay,Ruben Dudley,Stevens and Sons,Christopher Ferguson,2023-03-25,2023-06-23,Public
+156,Commercial Property,United States,Stacy Stephenson,"Shaw, Hale and Ross",Jennifer Bonilla,2022-09-16,2022-12-15,Public
+157,Insurance,Uruguay,Kyle Wright,"Johnson, Wright and Hayes",Joseph Sandoval,2022-01-25,2022-04-25,Public
+158,Pharmaceuticals,Canada,Amanda Cook,Klein PLC,Ronald Knight IV,2023-06-29,2023-09-27,Private
+159,Investment Management,Cameroon,Andre Green,Arnold Group,Kimberly Guerra,2022-04-21,2022-07-20,Public
+160,Electricity Providers,Nigeria,Jeffrey Simpson,Obrien-Perry,Melissa Welch,2022-08-16,2022-11-14,Private
+161,Movie Studios,Canada,Kevin Terry,"Mitchell, Walker and Burke",Eric Griffin,2023-09-04,2023-12-03,Private
+162,Oil & Gas,United States,Carolyn Page,"Clarke, Frank and Hayes",Mike Galvan,2022-09-05,2022-12-04,Private
+163,Pharmaceuticals,United States,Nicholas Taylor,Walls-Winters,Isaac Hamilton,2022-05-08,2022-08-06,Public
+164,Chemicals,Australia,Michael Baker,"Dean, Skinner and Lee",Melissa Lin,2022-02-02,2022-05-03,Public
+165,Electronics,Australia,Nicole Clark,Banks-Gray,Scott Gordon,2023-05-10,2023-08-08,Public
+166,Electronics,Singapore,Carrie Dalton,Newton-Ruiz,Sydney Williams,2023-05-26,2023-08-24,Private
+167,Airlines,Uruguay,Tiffany Hanson DDS,"Murphy, Price and Berry",Kevin Valencia,2023-02-26,2023-05-27,Public
+168,Pharmaceuticals,China,Jason Waller,"Cowan, Ward and Mckenzie",Michele Harris,2023-06-14,2023-09-12,Private
+169,Electronics,Mexico,Thomas Barrera,Smith-Potter,David Mitchell,2022-03-03,2022-06-01,Private
+170,Furniture,Canada,Tracy Reese,Morgan Inc,Brandon Whitaker,2023-09-20,2023-12-19,Private
+171,Telecom Equipment Manufacturers,Costa Rica,Robert Cooper,Mcdowell-Stevens,Linda Woods,2023-05-30,2023-08-28,Private
+172,Shipping Companies,Australia,Ashley Martinez,Morgan-Rivera,Mario Vaughn,2022-08-22,2022-11-20,Public
+173,Automobile Manufacturers,India,Ashley Martinez,Morgan-Rivera,Rebekah Garcia,2023-09-19,2023-12-18,Public
+174,Automobile Manufacturers,United Kingdom,Angela Mayer,Hahn Inc,Lori Ramirez,2022-02-05,2022-05-06,Public
+175,Water Companies,Ireland,Kim Trujillo,Obrien-Perry,Jenna Daniels,2022-12-15,2023-03-15,Public
+176,Precious Metals,Japan,Michael Baker,"Dean, Skinner and Lee",Kenneth Harvey,2022-08-23,2022-11-21,Public
+177,Telecom Equipment Manufacturers,United States,Steven West,Adams-Hall,Cynthia Rubio,2023-09-11,2023-12-10,Public
+178,Commercial Property,United States,David Brown,"Scott, York and Mendoza",Devon Mccall,2023-05-01,2023-07-30,Private
+179,Pharmaceuticals,United States,Katie Russell,Klein PLC,Susan Pierce,2022-05-06,2022-08-04,Private
+180,Electronics,Mexico,Thomas Barrera,Smith-Potter,Joseph Oliver,2022-03-29,2022-06-27,Private
+181,Travel Accessories,Canada,Jordan Camacho,Morgan Inc,Karen Solis,2023-07-23,2023-10-21,Private
+182,Electronics,Australia,Carrie Dalton,Newton-Ruiz,Carl Thompson,2022-07-29,2022-10-27,Private
+183,Railways,Uruguay,Tiffany Hanson DDS,"Murphy, Price and Berry",Blake Stark,2022-01-19,2022-04-19,Public
+184,Residential Property,United States,Stacy Stephenson,"Shaw, Hale and Ross",Rebecca Charles,2022-02-22,2022-05-23,Private
+185,Electronics,United States,Karen Orr,"Miller, Vance and Meyers",Brian Johnson,2023-09-11,2023-12-10,Public
+186,REITs,Nigeria,Claire Cannon,Harvey-Brown,Sean Sullivan,2023-07-10,2023-10-08,Private
+187,Mining Equipment,United States,Cristian Garcia,Chang PLC,Charlotte Scott,2022-02-13,2022-05-14,Public
+188,Insurance,Canada,Cody Lin,Caldwell Inc,Rachel Miller,2023-01-23,2023-04-23,Private
+189,REITs,United States,Amanda Nelson,"Scott, York and Mendoza",Morgan Garcia,2022-02-08,2022-05-09,Public
+190,Telecom Equipment Manufacturers,Cameroon,Mark White,"Glass, Gonzales and Henderson",John Hernandez,2023-01-07,2023-04-07,Public
+191,Mobile Phone Operators,Canada,Michelle Williams,Adams-Hall,Becky Rush,2023-03-05,2023-06-03,Private
+192,Railways,Jamaica,Justin Salazar,Roberts Ltd,Joyce Jones,2022-08-28,2022-11-26,Private
+193,Online Education Platforms,Uruguay,Ruben Dudley,Stevens and Sons,Jason Kirk,2022-07-29,2022-10-27,Public
+194,Insurance,United States,Sara Miller,Caldwell Inc,James Robertson,2022-07-11,2022-10-09,Private
+195,Banking Services,Hungary,Christopher Gentry,Arnold Group,Joseph Garcia,2022-02-03,2022-05-04,Private
+196,Airlines,Bahrain,George Lee,Hahn Inc,Jonathan Wallace,2022-02-16,2022-05-17,Public
+197,Mobile Phone Operators,Bahrain,Mr. Shawn Bruce Jr.,Campbell-Morse,Jesus Anderson,2022-11-24,2023-02-22,Private
+198,Water Companies,Canada,Jonathan Johnson,Cobb LLC,Eric Hale,2022-03-20,2022-06-18,Public
+199,Banking Services,Mexico,Timothy Butler,"Johnson, Wright and Hayes",Nathan Hill,2022-07-18,2022-10-16,Private
+200,Railways,Costa Rica,William Howard,Roberts Ltd,Jennifer Brooks,2022-09-29,2022-12-28,Public
